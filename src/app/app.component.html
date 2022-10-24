@@ -1,10 +1,24 @@
-<div>
-
+<div class="container-fluid">
+    <router-outlet></router-outlet>
 </div>
-<menu>
-    <li>
-        <ul>
-            <i></i>
+<nav class="navbar navbar-expand-lg navbar-light shadow-5-strong px-4">
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav ml-auto nav">
+            <li class="nav-item">
+                <a href="/alphabetical" class="nav-link" routerLink="alphabetical">alphabetical</a>
+            </li>
+            <li class="nav-item">
+                <a href="/chronological" class="nav-link" routerLink="chronological">chronological</a>
+            </li>
+            <li class="nav-item">
+                <a href="/location" class="nav-link" routerLink="location">location</a>
+            </li>
+            <li class="nav-item">
+                <a href="/programmatic" class="nav-link" routerLink="programmatic">programmatic</a>
+            </li>
+            <li class="nav-item">
+                <a href="/style" class="nav-link" routerLink="style">style</a>
+            </li>
         </ul>
-    </li>
-</menu>
+    </div>
+</nav>
