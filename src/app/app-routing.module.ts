@@ -1,9 +1,17 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { AlphabeticalComponent } from './alphabetical/alphabetical.component';
 import { ChronologicalComponent } from './chronological/chronological.component';
+import { LocationComponent } from './location/location.component';
+import { ProgrammaticComponent } from './programmatic/programmatic.component';
+import { StyleComponent } from './style/style.component';
 
 const routes: Routes = [
+  { path: 'alphabetical', component: AlphabeticalComponent },
   { path: 'chronological', component: ChronologicalComponent },
+  { path: 'location', component: LocationComponent },
+  { path: 'programmatic', component: ProgrammaticComponent },
+  { path: 'style', component: StyleComponent },
   { path: '', redirectTo: 'chronological', pathMatch: 'full' }
 ];
 
