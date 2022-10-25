@@ -8,7 +8,8 @@ export const arData = [
         "location": "Saqqara, Egypt",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"POD"
     },
     {
         "name": "Great Pyramid of Giza",
@@ -19,7 +20,8 @@ export const arData = [
         "location": "Giza Egypt",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GPG"
     },
     {
         "name": "Hypostyle Hall of the Karnak Temple Complex",
@@ -30,7 +32,8 @@ export const arData = [
         "location": "Luxor, Egypt",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HHK"
     },
     {
         "name": "Great Temple of Abu Simbel",
@@ -41,7 +44,8 @@ export const arData = [
         "location": "Egypt",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GTA"
     },
     {
         "name": "Temple of Hephaestus",
@@ -52,7 +56,8 @@ export const arData = [
         "location": "Athens, Greece",
         "continent": "Europe",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"TOH"
     },
     {
         "name": "Erechtheion",
@@ -63,7 +68,8 @@ export const arData = [
         "location": "Athens, Greece",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ERE"
     },
     {
         "name": "Parthenon",
@@ -74,7 +80,8 @@ export const arData = [
         "location": "Athens, Greece",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PAR"
     },
     {
         "name": "Ancient Theatre of Epidaurus",
@@ -85,7 +92,8 @@ export const arData = [
         "location": "Epidaurus, Greece",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ATE"
     },
     {
         "name": "Colosseum",
@@ -96,7 +104,8 @@ export const arData = [
         "location": "Rome",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"COL"
     },
     {
         "name": "Pont du Gard",
@@ -107,7 +116,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "Roman aqueduct",
-        "image": ""
+        "image": "",
+        "code":"PDG"
     },
     {
         "name": "Pantheon",
@@ -118,7 +128,8 @@ export const arData = [
         "location": "Rome",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PAN"
     },
     {
         "name": "Library of Celsus",
@@ -129,7 +140,8 @@ export const arData = [
         "location": "Ephesus, Turkey",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"LoC"
     },
     {
         "name": "Arch of Constantine",
@@ -140,7 +152,8 @@ export const arData = [
         "location": "Rome",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"AoC"
     },
     {
         "name": "Avenue of Dead",
@@ -151,7 +164,8 @@ export const arData = [
         "location": "Teotihuacan, Mexico",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"AoD"
     },
     {
         "name": "Palace of Palenque",
@@ -162,7 +176,8 @@ export const arData = [
         "location": "Chiapas, Mexico",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PoP"
     },
     {
         "name": "Temple of the Great Jaguar",
@@ -173,7 +188,8 @@ export const arData = [
         "location": "Tikal, Guatemala",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"TGJ"
     },
     {
         "name": "Nunnery Quadrangle",
@@ -184,7 +200,8 @@ export const arData = [
         "location": "Yucatan, Mexico",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"NUQ"
     },
     {
         "name": "Temple of the Warriors",
@@ -195,10 +212,11 @@ export const arData = [
         "location": "Yucatan, Mexico",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ToW"
     },
     {
-        "name": "The Great Stupa of Sanchi",
+        "name": "Great Stupa of Sanchi",
         "yearBuilt": "100 BC",
         "style": "Ancient Buddhist",
         "buildingType": "",
@@ -206,7 +224,8 @@ export const arData = [
         "location": "Madhya Pradesh, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GSS"
     },
     {
         "name": "Somapura Mahavihara",
@@ -217,7 +236,8 @@ export const arData = [
         "location": "Bangladesh",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"SoM"
     },
     {
         "name": "Cave 19 of the Ajanta Caves",
@@ -228,7 +248,8 @@ export const arData = [
         "location": "India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"CAC"
     },{
         "name": "Hawa Mahal",
         "yearBuilt": "1799",
@@ -238,7 +259,8 @@ export const arData = [
         "location": "Jaipur, Rajasthan, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HaM"
     },
     {
         "name": "Navlakha Temple",
@@ -249,7 +271,8 @@ export const arData = [
         "location": "Ghumli, Gujarat, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"NaT"
     },
     {
         "name": "Jain Vimal Vasahi Temple",
@@ -260,7 +283,8 @@ export const arData = [
         "location": "Mount Abu, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"JVV"
     },
     {
         "name": "Nyatapola Temple",
@@ -271,7 +295,8 @@ export const arData = [
         "location": "Bhaktapur, Nepal",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"NyT"
     },
     {
         "name": "Paro Taktsang",
@@ -282,7 +307,8 @@ export const arData = [
         "location": "Paro, Bhutan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PaT"
     },
     {
         "name": "Potala Palace",
@@ -293,7 +319,8 @@ export const arData = [
         "location": "Lhasa, Tibet",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Pot"
     },
     {
         "name": "Jamia Masjid",
@@ -304,7 +331,8 @@ export const arData = [
         "location": "Kashmir, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"JaM"
     },
     {
         "name": "Padmanabhaswamy Temple",
@@ -315,7 +343,8 @@ export const arData = [
         "location": "India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Pad"
     },
     {
         "name": "Meenakshi Temple",
@@ -326,7 +355,8 @@ export const arData = [
         "location": "Tamil, Nadu, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Mee"
     },
     {
         "name": "Vitthala Temple",
@@ -337,10 +367,11 @@ export const arData = [
         "location": "Hampi, Kartanaka, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Vit"
     },
     {
-        "name": "The Giant Wild Goose Pagoda",
+        "name": "Giant Wild Goose Pagoda",
         "yearBuilt": "652",
         "style": "Sinosphere",
         "buildingType": "",
@@ -348,10 +379,11 @@ export const arData = [
         "location": "Shaanxi, China",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GWG"
     },
     {
-        "name": "The Guanyian Pavilion of the Dule Monastery",
+        "name": "Guanyian Pavilion of the Dule Monastery",
         "yearBuilt": "984",
         "style": "Sinosphere",
         "buildingType": "",
@@ -359,7 +391,8 @@ export const arData = [
         "location": "Jixian, China",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GPD"
     },
     {
         "name": "Hall of Prayer for Good Harvests",
@@ -370,7 +403,8 @@ export const arData = [
         "location": "Beijing, China",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HPG"
     },
     {
         "name": "Temple of Literature",
@@ -381,7 +415,8 @@ export const arData = [
         "location": "Hanoi, Vietnam",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ToL"
     },
     {
         "name": "Gyeongbokgung Palace",
@@ -392,10 +427,11 @@ export const arData = [
         "location": "Seoul, South Korea",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GyP"
     },
     {
-        "name": "The Mausoleum of Emperor Nintoku",
+        "name": "Mausoleum of Emperor Nintoku",
         "yearBuilt": "4th century",
         "style": "Sinosphere",
         "buildingType": "",
@@ -403,7 +439,8 @@ export const arData = [
         "location": "Sakai, Osaka Prefecture, Japan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"MEN"
     },
     {
         "name": "Pagoda at Hōryū-ji",
@@ -414,10 +451,11 @@ export const arData = [
         "location": "Nara Prefecture, Japan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PaH"
     },
     {
-        "name": "The garden of the Ninna-ji temple",
+        "name": "Garden of the Ninna-ji Temple",
         "yearBuilt": "888",
         "style": "Sinosphere",
         "buildingType": "Garden",
@@ -425,7 +463,8 @@ export const arData = [
         "location": "Kyoto, Japan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GNT"
     },
     {
         "name": "Kinkaku-ji",
@@ -436,7 +475,8 @@ export const arData = [
         "location": "Kyoto, Japan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Kin"
     },
     {
         "name": "Bakong",
@@ -447,7 +487,8 @@ export const arData = [
         "location": "Hariharalaya, Roluos, Cambodia",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Bak"
     },
     {
         "name": "Prasat Prang Ku",
@@ -458,7 +499,8 @@ export const arData = [
         "location": "Sisaket, Thailand",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PPK"
     },
     {
         "name": "Angkor Wat",
@@ -469,7 +511,8 @@ export const arData = [
         "location": "Angkor, Cambodia",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"AnW"
     },
     {
         "name": "Champa Temples",
@@ -480,7 +523,8 @@ export const arData = [
         "location": "My Son, Vietnam",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Cha"
     },
     {
         "name": "Dome of the Rock",
@@ -491,7 +535,8 @@ export const arData = [
         "location": "Jerusalem",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"DoR"
     },
     {
         "name": "Great Mosque of Samarra",
@@ -502,7 +547,8 @@ export const arData = [
         "location": "Samarra, Iraq",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GMS"
     },
     {
         "name": "Tomb of Shah Rukn-e-Alam",
@@ -513,7 +559,8 @@ export const arData = [
         "location": "Multan, Pakistan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"TSR"
     },
     {
         "name": "Court of the Lions",
@@ -524,7 +571,8 @@ export const arData = [
         "location": "Alhambra, Granada, Spain",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"CoL"
     },
     {
         "name": "Taj Mahal",
@@ -535,7 +583,8 @@ export const arData = [
         "location": "Agra, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Taj"
     },
     {
         "name": "Basilica of Saint Sabina",
@@ -546,7 +595,8 @@ export const arData = [
         "location": "Aventine Hill, Rome",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"BSS"
     },
     {
         "name": "Hagia Irene",
@@ -557,7 +607,8 @@ export const arData = [
         "location": "Istanbul, Turkey",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HaI"
     },
     {
         "name": "Basilica of San Vitale",
@@ -568,7 +619,8 @@ export const arData = [
         "location": "Ravenna, Italy",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"BSV"
     },
     {
         "name": "Basilica of Sant'Apollinare in Classe",
@@ -579,7 +631,8 @@ export const arData = [
         "location": "Ravenna, Italy",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"BSC",
     },
     {
         "name": "Kapnikarea",
@@ -590,10 +643,11 @@ export const arData = [
         "location": "Athens, Greece",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Kap"
     },
     {
-        "name": "The Hagia Sophia",
+        "name": "Hagia Sophia",
         "yearBuilt": "537",
         "style": "Byzantine",
         "buildingType": "Religious",
@@ -601,7 +655,8 @@ export const arData = [
         "location": "Istanbul, Turkey",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"THS"
     },
     {
         "name": "St. Michael's Church",
@@ -612,7 +667,8 @@ export const arData = [
         "location": "Hildesheim, Germany",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"SMC"
     },
     {
         "name": "Abbey of Santo Domingo de Silos",
@@ -623,7 +679,8 @@ export const arData = [
         "location": "Santo Domingo de Silos, Spain",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ASD"
     },
     {
         "name": "Abbey Church of Sainte-Foy",
@@ -634,7 +691,8 @@ export const arData = [
         "location": "Conques, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ACS"
     },
     {
         "name": "Durham Cathedral",
@@ -645,7 +703,8 @@ export const arData = [
         "location": "Durham, UK",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"DuC"
     },
     {
         "name": "Maria Laach Abbey",
@@ -656,7 +715,8 @@ export const arData = [
         "location": "Germany",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"MLA"
     },
     {
         "name": "Munsterkerk",
@@ -664,10 +724,11 @@ export const arData = [
         "style": "Romanesque",
         "buildingType": "Religious",
         "scale": "",
-        "location": "The Netherlands",
+        "location": "Netherlands",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Mun"
     },
     {
         "name": "Notre-Dame Cathedral",
@@ -678,7 +739,8 @@ export const arData = [
         "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"NDC"
     },
     {
         "name": "Canterbury Cathedral",
@@ -689,7 +751,8 @@ export const arData = [
         "location": "Kent, UK",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"CaC"
     },
     {
         "name": "Chartres Cathedral",
@@ -700,7 +763,8 @@ export const arData = [
         "location": "Chartres, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ChC"
     },
     {
         "name": "Town Hall",
@@ -711,7 +775,8 @@ export const arData = [
         "location": "Bruges, Belgium",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Tow"
     },
     {
         "name": "Hotel de Sens",
@@ -722,7 +787,8 @@ export const arData = [
         "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HDS"
     },
     {
         "name": "Königsberg Cathedral",
@@ -733,7 +799,8 @@ export const arData = [
         "location": "Kaliningrad, Russia",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Kon"
     },
     {
         "name": "Ridderzaal",
@@ -741,13 +808,14 @@ export const arData = [
         "style": "Gothic",
         "buildingType": "Religious",
         "scale": "",
-        "location": "The Hague, Netherlands",
+        "location": "Hague, Netherlands",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Rid"
     },
     {
-        "name": "The Sainte-Chapelle",
+        "name": "Sainte-Chapelle",
         "yearBuilt": "1243-1248",
         "style": "Gothic",
         "buildingType": "Religious",
@@ -755,7 +823,8 @@ export const arData = [
         "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Sai"
     },
     {
         "name": "",
@@ -766,7 +835,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -777,7 +847,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -788,7 +859,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -799,7 +871,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -810,7 +883,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -821,7 +895,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -832,7 +907,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -843,7 +919,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -854,7 +931,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -865,7 +943,8 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     },
     {
         "name": "",
@@ -876,6 +955,7 @@ export const arData = [
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":""
     }
 ]
