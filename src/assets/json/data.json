@@ -8,7 +8,8 @@
         "location": "Saqqara, Egypt",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"POD"
     },
     {
         "name": "Great Pyramid of Giza",
@@ -19,7 +20,8 @@
         "location": "Giza Egypt",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GPG"
     },
     {
         "name": "Hypostyle Hall of the Karnak Temple Complex",
@@ -30,7 +32,8 @@
         "location": "Luxor, Egypt",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HHK"
     },
     {
         "name": "Great Temple of Abu Simbel",
@@ -41,7 +44,8 @@
         "location": "Egypt",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GTA"
     },
     {
         "name": "Temple of Hephaestus",
@@ -52,7 +56,20 @@
         "location": "Athens, Greece",
         "continent": "Europe",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"TOH"
+    },
+    {
+        "name": "Temple of Segesta",
+        "yearBuilt": "5th century",
+        "style": "Greek",
+        "buildingType": "",
+        "scale": "",
+        "location": "Italy",
+        "continent": "Europe",
+        "description": "",
+        "image": "",
+        "code":"TOS"
     },
     {
         "name": "Erechtheion",
@@ -63,7 +80,8 @@
         "location": "Athens, Greece",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ERE"
     },
     {
         "name": "Parthenon",
@@ -74,7 +92,20 @@
         "location": "Athens, Greece",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PAR"
+    },
+    {
+        "name": "Tholos of the Sanctuary of Athena Pronaia",
+        "yearBuilt": "380-360 BC",
+        "style": "Greek",
+        "buildingType": "",
+        "scale": "",
+        "location": "Delphi, Greece",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"TSP"
     },
     {
         "name": "Ancient Theatre of Epidaurus",
@@ -85,7 +116,8 @@
         "location": "Epidaurus, Greece",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ATE"
     },
     {
         "name": "Colosseum",
@@ -96,7 +128,8 @@
         "location": "Rome",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"COL"
     },
     {
         "name": "Pont du Gard",
@@ -104,10 +137,23 @@
         "style": "Roman",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "France",
         "continent": "",
         "description": "Roman aqueduct",
-        "image": ""
+        "image": "",
+        "code":"PDG"
+    },
+    {
+        "name": "Maison Carrée",
+        "yearBuilt": "2nd century",
+        "style": "Roman",
+        "buildingType": "",
+        "scale": "",
+        "location": "France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"MCa"
     },
     {
         "name": "Pantheon",
@@ -118,7 +164,8 @@
         "location": "Rome",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PAN"
     },
     {
         "name": "Library of Celsus",
@@ -129,7 +176,8 @@
         "location": "Ephesus, Turkey",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"LoC"
     },
     {
         "name": "Arch of Constantine",
@@ -140,7 +188,8 @@
         "location": "Rome",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"AoC"
     },
     {
         "name": "Avenue of Dead",
@@ -151,7 +200,8 @@
         "location": "Teotihuacan, Mexico",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"AoD"
     },
     {
         "name": "Palace of Palenque",
@@ -162,7 +212,8 @@
         "location": "Chiapas, Mexico",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PoP"
     },
     {
         "name": "Temple of the Great Jaguar",
@@ -173,7 +224,8 @@
         "location": "Tikal, Guatemala",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"TGJ"
     },
     {
         "name": "Nunnery Quadrangle",
@@ -184,7 +236,8 @@
         "location": "Yucatan, Mexico",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"NUQ"
     },
     {
         "name": "Temple of the Warriors",
@@ -195,10 +248,11 @@
         "location": "Yucatan, Mexico",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ToW"
     },
     {
-        "name": "The Great Stupa of Sanchi",
+        "name": "Great Stupa of Sanchi",
         "yearBuilt": "100 BC",
         "style": "Ancient Buddhist",
         "buildingType": "",
@@ -206,7 +260,8 @@
         "location": "Madhya Pradesh, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GSS"
     },
     {
         "name": "Somapura Mahavihara",
@@ -217,7 +272,8 @@
         "location": "Bangladesh",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"SoM"
     },
     {
         "name": "Cave 19 of the Ajanta Caves",
@@ -228,7 +284,8 @@
         "location": "India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"CAC"
     },{
         "name": "Hawa Mahal",
         "yearBuilt": "1799",
@@ -238,7 +295,8 @@
         "location": "Jaipur, Rajasthan, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HaM"
     },
     {
         "name": "Navlakha Temple",
@@ -249,18 +307,20 @@
         "location": "Ghumli, Gujarat, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"NaT"
     },
     {
         "name": "Jain Vimal Vasahi Temple",
         "yearBuilt": "1031",
-        "style": "",
+        "style": "Maru Gurjara",
         "buildingType": "",
         "scale": "",
         "location": "Mount Abu, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"JVV"
     },
     {
         "name": "Nyatapola Temple",
@@ -271,7 +331,8 @@
         "location": "Bhaktapur, Nepal",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"NyT"
     },
     {
         "name": "Paro Taktsang",
@@ -282,7 +343,8 @@
         "location": "Paro, Bhutan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PaT"
     },
     {
         "name": "Potala Palace",
@@ -293,7 +355,8 @@
         "location": "Lhasa, Tibet",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Pot"
     },
     {
         "name": "Jamia Masjid",
@@ -304,7 +367,8 @@
         "location": "Kashmir, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"JaM"
     },
     {
         "name": "Padmanabhaswamy Temple",
@@ -315,7 +379,8 @@
         "location": "India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Pad"
     },
     {
         "name": "Meenakshi Temple",
@@ -326,7 +391,8 @@
         "location": "Tamil, Nadu, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Mee"
     },
     {
         "name": "Vitthala Temple",
@@ -337,10 +403,11 @@
         "location": "Hampi, Kartanaka, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Vit"
     },
     {
-        "name": "The Giant Wild Goose Pagoda",
+        "name": "Giant Wild Goose Pagoda",
         "yearBuilt": "652",
         "style": "Sinosphere",
         "buildingType": "",
@@ -348,10 +415,11 @@
         "location": "Shaanxi, China",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GWG"
     },
     {
-        "name": "The Guanyian Pavilion of the Dule Monastery",
+        "name": "Guanyian Pavilion of the Dule Monastery",
         "yearBuilt": "984",
         "style": "Sinosphere",
         "buildingType": "",
@@ -359,7 +427,8 @@
         "location": "Jixian, China",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GPD"
     },
     {
         "name": "Hall of Prayer for Good Harvests",
@@ -370,7 +439,8 @@
         "location": "Beijing, China",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HPG"
     },
     {
         "name": "Temple of Literature",
@@ -381,7 +451,8 @@
         "location": "Hanoi, Vietnam",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ToL"
     },
     {
         "name": "Gyeongbokgung Palace",
@@ -392,10 +463,11 @@
         "location": "Seoul, South Korea",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GyP"
     },
     {
-        "name": "The Mausoleum of Emperor Nintoku",
+        "name": "Mausoleum of Emperor Nintoku",
         "yearBuilt": "4th century",
         "style": "Sinosphere",
         "buildingType": "",
@@ -403,7 +475,8 @@
         "location": "Sakai, Osaka Prefecture, Japan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"MEN"
     },
     {
         "name": "Pagoda at Hōryū-ji",
@@ -414,10 +487,11 @@
         "location": "Nara Prefecture, Japan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PaH"
     },
     {
-        "name": "The garden of the Ninna-ji temple",
+        "name": "Garden of the Ninna-ji Temple",
         "yearBuilt": "888",
         "style": "Sinosphere",
         "buildingType": "Garden",
@@ -425,7 +499,8 @@
         "location": "Kyoto, Japan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GNT"
     },
     {
         "name": "Kinkaku-ji",
@@ -436,7 +511,8 @@
         "location": "Kyoto, Japan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Kin"
     },
     {
         "name": "Bakong",
@@ -447,7 +523,8 @@
         "location": "Hariharalaya, Roluos, Cambodia",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Bak"
     },
     {
         "name": "Prasat Prang Ku",
@@ -458,7 +535,8 @@
         "location": "Sisaket, Thailand",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PPK"
     },
     {
         "name": "Angkor Wat",
@@ -469,7 +547,8 @@
         "location": "Angkor, Cambodia",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"AnW"
     },
     {
         "name": "Champa Temples",
@@ -480,7 +559,8 @@
         "location": "My Son, Vietnam",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Cha"
     },
     {
         "name": "Dome of the Rock",
@@ -491,7 +571,8 @@
         "location": "Jerusalem",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"DoR"
     },
     {
         "name": "Great Mosque of Samarra",
@@ -502,7 +583,8 @@
         "location": "Samarra, Iraq",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GMS"
     },
     {
         "name": "Tomb of Shah Rukn-e-Alam",
@@ -513,7 +595,8 @@
         "location": "Multan, Pakistan",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"TSR"
     },
     {
         "name": "Court of the Lions",
@@ -524,7 +607,8 @@
         "location": "Alhambra, Granada, Spain",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"CoL"
     },
     {
         "name": "Taj Mahal",
@@ -535,7 +619,8 @@
         "location": "Agra, India",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Taj"
     },
     {
         "name": "Basilica of Saint Sabina",
@@ -546,7 +631,8 @@
         "location": "Aventine Hill, Rome",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"BSS"
     },
     {
         "name": "Hagia Irene",
@@ -557,7 +643,8 @@
         "location": "Istanbul, Turkey",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HaI"
     },
     {
         "name": "Basilica of San Vitale",
@@ -568,7 +655,8 @@
         "location": "Ravenna, Italy",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"BSV"
     },
     {
         "name": "Basilica of Sant'Apollinare in Classe",
@@ -579,7 +667,8 @@
         "location": "Ravenna, Italy",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"BSC"
     },
     {
         "name": "Kapnikarea",
@@ -590,10 +679,11 @@
         "location": "Athens, Greece",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Kap"
     },
     {
-        "name": "The Hagia Sophia",
+        "name": "Hagia Sophia",
         "yearBuilt": "537",
         "style": "Byzantine",
         "buildingType": "Religious",
@@ -601,7 +691,8 @@
         "location": "Istanbul, Turkey",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"THS"
     },
     {
         "name": "St. Michael's Church",
@@ -612,10 +703,11 @@
         "location": "Hildesheim, Germany",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"SMC"
     },
     {
-        "name": " Abbey of Santo Domingo de Silos",
+        "name": "Abbey of Santo Domingo de Silos",
         "yearBuilt": "1085",
         "style": "Romanesque",
         "buildingType": "Religious",
@@ -623,7 +715,8 @@
         "location": "Santo Domingo de Silos, Spain",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ASD"
     },
     {
         "name": "Abbey Church of Sainte-Foy",
@@ -634,7 +727,8 @@
         "location": "Conques, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ACS"
     },
     {
         "name": "Durham Cathedral",
@@ -645,7 +739,8 @@
         "location": "Durham, UK",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"DuC"
     },
     {
         "name": "Maria Laach Abbey",
@@ -656,7 +751,8 @@
         "location": "Germany",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"MLA"
     },
     {
         "name": "Munsterkerk",
@@ -664,10 +760,11 @@
         "style": "Romanesque",
         "buildingType": "Religious",
         "scale": "",
-        "location": "The Netherlands",
+        "location": "Netherlands",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Mun"
     },
     {
         "name": "Notre-Dame Cathedral",
@@ -678,7 +775,8 @@
         "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"NDC"
     },
     {
         "name": "Canterbury Cathedral",
@@ -689,7 +787,8 @@
         "location": "Kent, UK",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"CaC"
     },
     {
         "name": "Chartres Cathedral",
@@ -700,7 +799,8 @@
         "location": "Chartres, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"ChC"
     },
     {
         "name": "Town Hall",
@@ -711,7 +811,8 @@
         "location": "Bruges, Belgium",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Tow"
     },
     {
         "name": "Hotel de Sens",
@@ -722,7 +823,8 @@
         "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HDS"
     },
     {
         "name": "Königsberg Cathedral",
@@ -733,7 +835,8 @@
         "location": "Kaliningrad, Russia",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Kon"
     },
     {
         "name": "Ridderzaal",
@@ -741,13 +844,14 @@
         "style": "Gothic",
         "buildingType": "Religious",
         "scale": "",
-        "location": "The Hague, Netherlands",
+        "location": "Hague, Netherlands",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Rid"
     },
     {
-        "name": "The Sainte-Chapelle",
+        "name": "Sainte-Chapelle",
         "yearBuilt": "1243-1248",
         "style": "Gothic",
         "buildingType": "Religious",
@@ -755,127 +859,799 @@
         "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"Sai"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Florence Cathedral",
+        "yearBuilt": "1294-1436",
+        "style": "Rennaisance",
+        "buildingType": "Religious",
+        "scale": "",
+        "location": "Florence, Italy",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"FlC"
+    },
+    {
+        "name": "Basilica of Sant'Andrea",
+        "yearBuilt": "1470",
+        "style": "Rennaisance",
+        "buildingType": "Religious",
+        "scale": "",
+        "location": "Mantua, Italy",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"BSA"
+    },
+    {
+        "name": "Tempietto, The",
+        "yearBuilt": "1502",
+        "style": "Rennaisance",
+        "buildingType": "Religious",
+        "scale": "",
+        "location": "Rome",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"Tem"
+    },
+    {
+        "name": "Villa Madama",
+        "yearBuilt": "1518-1525",
+        "style": "Rennaisance",
+        "buildingType": "Religious",
+        "scale": "",
+        "location": "outside Rome",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"ViM"
+    },
+    {
+        "name": "Château d'Azay-le-Rideau",
+        "yearBuilt": "1518-1527",
+        "style": "Rennaisance",
+        "buildingType": "",
+        "scale": "",
+        "location": "Loire, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"CAR"
+    },
+    {
+        "name": "Château de Chambord",
+        "yearBuilt": "1519-1547",
+        "style": "Rennaisance",
+        "buildingType": "Religious",
+        "scale": "",
+        "location": "Loire, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"CdC"
+    },
+    {
+        "name": "Palazzo Farnese",
+        "yearBuilt": "1534-1546",
+        "style": "Rennaisance",
+        "buildingType": "Religious",
+        "scale": "",
+        "location": "Rome",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"PaR"
+    },
+    {
+        "name": "Temple du Marais",
+        "yearBuilt": "1632",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "Paris, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"TdM"
+    },
+    {
+        "name": "San Carlo alle Quattro Fontane",
+        "yearBuilt": "1638-1677",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "Rome",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"SCQ"
+    },
+    {
+        "name": "St. Peter's Square",
+        "yearBuilt": "1656-1667",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "Rome",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"SPQ"
+    },
+    {
+        "name": "Gardens at Vaux-le-Vicomte",
+        "yearBuilt": "1657-1661",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"GVV"
+    },
+    {
+        "name": "Dôme des Invalides",
+        "yearBuilt": "1677-1706",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "Paris, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"DdI"
+    },
+    {
+        "name": "Royal Naval Hospital",
+        "yearBuilt": "1695-1715",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "Greenwich, London",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"RVH"
+    },
+    {
+        "name": "Church of Saint Nicholas",
+        "yearBuilt": "1703-1711",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "Prague, Czech Republic",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"CSN"
+    },
+    {
+        "name": "Karlskirche",
+        "yearBuilt": "1715-1735",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "Vienna, Austria",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"Kar"
+    },
+    {
+        "name": "Royal Palace of Amsterdam",
+        "yearBuilt": "1648-1665",
+        "style": "Baroque",
+        "buildingType": "",
+        "scale": "",
+        "location": "Amsterdam, The Netherlands",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"RPA"
+    },
+    {
+        "name": "Zwinger",
+        "yearBuilt": "1719",
+        "style": "Rococo",
+        "buildingType": "",
+        "scale": "",
+        "location": "Dresden, Germany",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"Zwi"
+    },
+    {
+        "name": "Château St. Gerlach",
+        "yearBuilt": "1735",
+        "style": "Rococo",
+        "buildingType": "",
+        "scale": "",
+        "location": "The Netherlands",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"CSG"
+    },
+    {
+        "name": "Door of the Hôtel de Chenizot",
+        "yearBuilt": "1719",
+        "style": "Rococo",
+        "buildingType": "",
+        "scale": "",
+        "location": "Paris, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"DHC"
+    },
+    {
+        "name": "Palace of Queluz",
+        "yearBuilt": "1752",
+        "style": "Rococo",
+        "buildingType": "",
+        "scale": "",
+        "location": "Lisbon, Portugal",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"PoQ"
+    },
+    {
+        "name": "Pilgrimage Church of Wies",
+        "yearBuilt": "1754",
+        "style": "Rococo",
+        "buildingType": "",
+        "scale": "",
+        "location": "Steingaden, Germany",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"PCW"
+    },
+    {
+        "name": "English landscape garden at Stourhead",
+        "yearBuilt": "1740",
+        "style": "Neoclassicism",
+        "buildingType": "",
+        "scale": "",
+        "location": "UK",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"ELG"
+    },
+    {
+        "name": "Panthéon (Paris)",
+        "yearBuilt": "1758-1790",
+        "style": "Neoclassicism",
+        "buildingType": "",
+        "scale": "",
+        "location": "Paris, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"PaP"
+    },
+    {
+        "name": "Hôtel de la Marine",
+        "yearBuilt": "1761-1770",
+        "style": "Neoclassicism",
+        "buildingType": "",
+        "scale": "",
+        "location": "Paris, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"HdM"
+    },
+    {
+        "name": "Stairway of the Grand Theater of Bordeaux",
+        "yearBuilt": "1777-1780",
+        "style": "Neoclassicism",
+        "buildingType": "",
+        "scale": "",
+        "location": "Bordeaux, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"SGT"
+    },
+    {
+        "name": "Villa Welgelegen",
+        "yearBuilt": "1789",
+        "style": "Neoclassicism",
+        "buildingType": "",
+        "scale": "",
+        "location": "Harlem, The Netherlands",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"ViW"
+    },
+    {
+        "name": "Neue Wache",
+        "yearBuilt": "1816",
+        "style": "Neoclassicism",
+        "buildingType": "",
+        "scale": "",
+        "location": "Berlin, Germany",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"NeW"
+    },
+    {
+        "name": "Burns Monument",
+        "yearBuilt": "1820-1831",
+        "style": "Neoclassicism",
+        "buildingType": "",
+        "scale": "",
+        "location": "Edinburgh, UK",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"BuM"
+    },
+    {
+        "name": "Petit Trianon",
+        "yearBuilt": "1764",
+        "style": "Neoclassicism",
+        "buildingType": "",
+        "scale": "",
+        "location": "Versailles, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"PeT"
+    },
+    {
+        "name": "Exterior of the Palais Garnier",
+        "yearBuilt": "1860",
+        "style": "Beaux-Arts",
+        "buildingType": "",
+        "scale": "",
+        "location": "Paris, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"EPG"
+    },
+    {
+        "name": "Grand stairs of the Palais Garnier",
+        "yearBuilt": "1860-1875",
+        "style": "Beaux-Arts",
         "buildingType": "",
         "scale": "",
         "location": "",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GSP"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "The CEC Palace on Victory Avenue",
+        "yearBuilt": "1897-1900",
+        "style": "Beaux-Arts",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Bucharest, Romania",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"CEC"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Cantacuzino Palace",
+        "yearBuilt": "1898-1906",
+        "style": "Beaux-Arts",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Bucharest, Romania",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"CaP"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Petit Palais",
+        "yearBuilt": "1900",
+        "style": "Beaux-Arts",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"PeP"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Grand Central Terminal",
+        "yearBuilt": "1903",
+        "style": "Beaux-Arts",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "New York City",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"GCT"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Beaux-Arts Villa",
+        "yearBuilt": "1913",
+        "style": "Beaux-Arts",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Antwerp, Belgium",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"BAV"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Hôtel Tassel",
+        "yearBuilt": "1894",
+        "style": "Art Nouveau",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Brussels, Belgium",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"HoT"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Secession Building",
+        "yearBuilt": "1897",
+        "style": "Art Nouveau",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Vienna, Austria",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"SeB"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "La Fermette Marbeuf",
+        "yearBuilt": "1898",
+        "style": "Art Nouveau",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"LFM"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Leonardo da Vinci Highschool",
+        "yearBuilt": "1899",
+        "style": "Art Nouveau",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"LVH"
     },
     {
-        "name": "",
-        "yearBuilt": "",
-        "style": "",
+        "name": "Bijouterie Fouquet",
+        "yearBuilt": "1900",
+        "style": "Art Nouveau",
         "buildingType": "",
         "scale": "",
-        "location": "",
+        "location": "Paris, France",
         "continent": "",
         "description": "",
-        "image": ""
+        "image": "",
+        "code":"BiF"
+    },
+    {
+        "name": "Porte Dauphine Métro Station",
+        "yearBuilt": "1900",
+        "style": "Art Nouveau",
+        "buildingType": "",
+        "scale": "",
+        "location": "Paris, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"PDM"
+    },
+    {
+        "name": "Maison Huot",
+        "yearBuilt": "1903",
+        "style": "Art Nouveau",
+        "buildingType": "",
+        "scale": "",
+        "location": "Nancy, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"MaH"
+    },
+    {
+        "name": "Casa Batlló",
+        "yearBuilt": "1904-1906",
+        "style": "Art Nouveau",
+        "buildingType": "",
+        "scale": "",
+        "location": "Barcelona, Spain",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"CaB"
+    },
+    {
+        "name": "Mița the Cyclist House",
+        "yearBuilt": "1910",
+        "style": "Art Nouveau",
+        "buildingType": "",
+        "scale": "",
+        "location": "Bucharest, Romania",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"MCH"
+    },
+    {
+        "name": "Les Chardons Building",
+        "yearBuilt": "1903",
+        "style": "Art Nouveau",
+        "buildingType": "",
+        "scale": "",
+        "location": "Paris, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"LCB"
+    },
+    {
+        "name": "Barcelona Pavilion",
+        "yearBuilt": "1929",
+        "style": "International Style",
+        "buildingType": "",
+        "scale": "",
+        "location": "Barcelona, Spain",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"BaP"
+    },
+    {
+        "name": "Villa Savoye",
+        "yearBuilt": "1929-1930",
+        "style": "International Style",
+        "buildingType": "",
+        "scale": "",
+        "location": "Poissy, France",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"ViS"
+    },
+    {
+        "name": "Lever House",
+        "yearBuilt": "1952",
+        "style": "International Style",
+        "buildingType": "",
+        "scale": "",
+        "location": "New York City",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"LeH"
+    },
+    {
+        "name": "Seagram Building",
+        "yearBuilt": "1958",
+        "style": "International Style",
+        "buildingType": "",
+        "scale": "",
+        "location": "New York City",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"SBu"
+    },
+    {
+        "name": "United States Air Force Academy Cadet Chapel",
+        "yearBuilt": "1963",
+        "style": "International Style",
+        "buildingType": "",
+        "scale": "",
+        "location": "Colorado, USA",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"UCC"
+    },
+    {
+        "name": "Rudolph Hall",
+        "yearBuilt": "1963",
+        "style": "Brutalist",
+        "buildingType": "",
+        "scale": "",
+        "location": "New Haven, Connecticut",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"RuH"
+    },
+    {
+        "name": "Habitat 67",
+        "yearBuilt": "1966-1967",
+        "style": "Brutalist",
+        "buildingType": "",
+        "scale": "",
+        "location": "Montreal, Canada",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"H67"
+    },
+    {
+        "name": "Geisel Library",
+        "yearBuilt": "1970",
+        "style": "Brutalist",
+        "buildingType": "",
+        "scale": "",
+        "location": "San Diego, California, USA",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"GeL"
+    },
+    {
+        "name": "Robarts Library",
+        "yearBuilt": "1973",
+        "style": "Brutalist",
+        "buildingType": "",
+        "scale": "",
+        "location": "Toronto, Canada",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"RoL"
+    },
+    {
+        "name": "Freeway Park Fountain",
+        "yearBuilt": "1976",
+        "style": "Brutalist",
+        "buildingType": "",
+        "scale": "",
+        "location": "Seattle, Washington, USA",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"FPF"
+    },
+    {
+        "name": "Piazza d'Italia",
+        "yearBuilt": "1978",
+        "style": "Postmodern",
+        "buildingType": "",
+        "scale": "",
+        "location": "New Orleans, USA",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"PdI"
+    },
+    {
+        "name": "Neue Staatsgalerie",
+        "yearBuilt": "1984",
+        "style": "Postmodern",
+        "buildingType": "",
+        "scale": "",
+        "location": "Stuttgart, Germany",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"NeS"
+    },
+    {
+        "name": "AT&T Headquarters",
+        "yearBuilt": "1984",
+        "style": "Postmodern",
+        "buildingType": "",
+        "scale": "",
+        "location": "New York City",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"ATT"
+    },
+    {
+        "name": "Team Disney Building",
+        "yearBuilt": "1990",
+        "style": "Postmodern",
+        "buildingType": "",
+        "scale": "",
+        "location": "Los Angeles, USA",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"TDB"
+    },
+    {
+        "name": "Bundeskanzleramt",
+        "yearBuilt": "1997-2001",
+        "style": "Postmodern",
+        "buildingType": "",
+        "scale": "",
+        "location": "Berlin, Germany",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"Bun"
+    },
+    {
+        "name": "Wexner Center for the Arts",
+        "yearBuilt": "1989",
+        "style": "Deconstructivist",
+        "buildingType": "",
+        "scale": "",
+        "location": "Ohio, US",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"WCA"
+    },
+    {
+        "name": "Vitra Fire Station",
+        "yearBuilt": "1989-1993",
+        "style": "Deconstructivist",
+        "buildingType": "",
+        "scale": "",
+        "location": "Germany",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"VFS"
+    },
+    {
+        "name": "Jewish Museum",
+        "yearBuilt": "1992-1999",
+        "style": "Deconstructivist",
+        "buildingType": "",
+        "scale": "",
+        "location": "Berlin, Germany",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"JeM"
+    },
+    {
+        "name": "Guggenheim Museum",
+        "yearBuilt": "1997",
+        "style": "Deconstructivist",
+        "buildingType": "",
+        "scale": "",
+        "location": "Bilbao, Spain",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"GuM"
+    },
+    {
+        "name": "Phaeno Science Center",
+        "yearBuilt": "2005",
+        "style": "Deconstructivist",
+        "buildingType": "",
+        "scale": "",
+        "location": "Wolfsburg, Germany",
+        "continent": "",
+        "description": "",
+        "image": "",
+        "code":"PSC"
     }
 ]

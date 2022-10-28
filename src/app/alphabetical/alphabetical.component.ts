@@ -17,11 +17,13 @@ export class AlphabeticalComponent implements OnInit {
 
   ngOnInit(): void {
     this.data = arData;
+    console.log(this.data)
     this.sortData();
   }
 
   sortData(): void {
-    const grouped = this.data.reduce(function (r, a) {
+    const arData = this.data.sort((a, b) => a.name.localeCompare(b.name))
+    const grouped = arData.reduce(function (r, a) {
       let letter = (a.name)[0]
       r[letter] = r[letter] || [];
       r[letter].push(a);
@@ -30,9 +32,7 @@ export class AlphabeticalComponent implements OnInit {
 
     console.log(grouped);
 
-    // this.groupedAlphabetically = result;
     this.renderAlphsInUI(grouped);
-    // this.renderListsInUI(grouped);
   }
 
   renderAlphsInUI(grouped: any): void {
@@ -56,11 +56,12 @@ export class AlphabeticalComponent implements OnInit {
       let ul = document.createElement("ul"); 
 
       for (let group of grouped[key]) { 
-        console.log('i', group)
         let li = document.createElement("li"); 
         li.innerHTML = group['code'];
         li.style.borderStyle = "solid";
         li.style.marginTop = "5px";
+        li.style.textAlign = "center"
+        li.style.fontSize = "1vw";
         ul.append(li);
       }
       li.append(ul);
@@ -70,31 +71,5 @@ export class AlphabeticalComponent implements OnInit {
       
     }
   }
-
-  // renderListsInUI(grouped: any): void {
-  //   for (let key in grouped) {
-  //     let li = document.createElement("li"); 
-  //     li.classList.add('list-group-item');
-  //     li.innerHTML = key;
-  //     const outerUl = document.getElementById("outerUl");
-  //     if (outerUl) {
-  //       outerUl.appendChild(li);
-  //     }
-
-  //     // let ul = document.createElement("ul"); 
-
-  //     // for (let group of grouped[key]) { 
-  //     //   console.log('i', group)
-  //     //   let li = document.createElement("li"); 
-  //     //   li.innerHTML = group['code'];
-  //     //   li.style.borderStyle = "solid";
-  //     //   li.style.margin = "5px";
-  //     //   ul.append(li);
-  //     // }
-  //     // li.append(ul);
-  //     // ul.style.listStyle = "none";
-      
-  //   }
-  // }
-
+  
 }
