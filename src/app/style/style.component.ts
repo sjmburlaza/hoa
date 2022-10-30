@@ -24,7 +24,8 @@ export class StyleComponent implements OnInit {
   }
 
   sortData(): void {
-    const grouped = this.data.reduce(function (r, a) {
+    const arData = this.data.sort((a, b) => a.id - b.id);
+    const grouped = arData.reduce(function (r, a) {
       let style = a.style;
       r[style] = r[style] || [];
       r[style].push(a);

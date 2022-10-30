@@ -1,5 +1,6 @@
 export const arData = [
     {
+        "id": 1,
         "name": "Pyramid of Djoser",
         "yearBuilt": "2667–2648 BC",
         "style": "Ancient Egyptian",
@@ -12,6 +13,7 @@ export const arData = [
         "codename":"POD"
     },
     {
+        "id": 2,
         "name": "Great Pyramid of Giza",
         "yearBuilt": "2589-2566 BC",
         "style": "Ancient Egyptian",
@@ -24,6 +26,7 @@ export const arData = [
         "codename":"GPG"
     },
     {
+        "id": 3,
         "name": "Hypostyle Hall of the Karnak Temple Complex",
         "yearBuilt": "1294-1213 BC",
         "style": "Ancient Egyptian",
@@ -36,6 +39,7 @@ export const arData = [
         "codename":"HHK"
     },
     {
+        "id": 4,
         "name": "Great Temple of Abu Simbel",
         "yearBuilt": "1264 BC",
         "style": "Ancient Egyptian",
@@ -48,6 +52,7 @@ export const arData = [
         "codename":"GTA"
     },
     {
+        "id": 5,
         "name": "Temple of Hephaestus",
         "yearBuilt": "449 BC",
         "style": "Greek / Roman",
@@ -60,6 +65,7 @@ export const arData = [
         "codename":"TOH"
     },
     {
+        "id": 6,
         "name": "Temple of Segesta",
         "yearBuilt": "400 AD",
         "style": "Greek / Roman",
@@ -72,6 +78,7 @@ export const arData = [
         "codename":"TOS"
     },
     {
+        "id": 7,
         "name": "Erechtheion",
         "yearBuilt": "421-405 BC",
         "style": "Greek / Roman",
@@ -84,6 +91,7 @@ export const arData = [
         "codename":"ERE"
     },
     {
+        "id": 8,
         "name": "Parthenon",
         "yearBuilt": "447-432 BC",
         "style": "Greek / Roman",
@@ -96,6 +104,7 @@ export const arData = [
         "codename":"PAR"
     },
     {
+        "id": 9,
         "name": "Tholos of the Sanctuary of Athena Pronaia",
         "yearBuilt": "380-360 BC",
         "style": "Greek / Roman",
@@ -108,6 +117,7 @@ export const arData = [
         "codename":"TSP"
     },
     {
+        "id": 10,
         "name": "Ancient Theatre of Epidaurus",
         "yearBuilt": "300 BC",
         "style": "Greek / Roman",
@@ -120,6 +130,7 @@ export const arData = [
         "codename":"ATE"
     },
     {
+        "id": 11,
         "name": "Colosseum",
         "yearBuilt": "70-80 BC",
         "style": "Greek / Roman",
@@ -132,6 +143,7 @@ export const arData = [
         "codename":"COL"
     },
     {
+        "id": 12,
         "name": "Pont du Gard",
         "yearBuilt": "40-60 AD",
         "style": "Greek / Roman",
@@ -144,6 +156,7 @@ export const arData = [
         "codename":"PDG"
     },
     {
+        "id": 13,
         "name": "Maison Carrée",
         "yearBuilt": "100 AD",
         "style": "Greek / Roman",
@@ -156,6 +169,7 @@ export const arData = [
         "codename":"MCa"
     },
     {
+        "id": 14,
         "name": "Pantheon",
         "yearBuilt": "114-123",
         "style": "Greek / Roman",
@@ -168,6 +182,7 @@ export const arData = [
         "codename":"PAN"
     },
     {
+        "id": 15,
         "name": "Library of Celsus",
         "yearBuilt": "112-120",
         "style": "Greek / Roman",
@@ -180,6 +195,7 @@ export const arData = [
         "codename":"LoC"
     },
     {
+        "id": 16,
         "name": "Arch of Constantine",
         "yearBuilt": "316",
         "style": "Greek / Roman",
@@ -192,6 +208,7 @@ export const arData = [
         "codename":"AoC"
     },
     {
+        "id": 17,
         "name": "Avenue of Dead",
         "yearBuilt": "1-600",
         "style": "Pre-Columbian",
@@ -204,6 +221,7 @@ export const arData = [
         "codename":"AoD"
     },
     {
+        "id": 18,
         "name": "Palace of Palenque",
         "yearBuilt": "600",
         "style": "Pre-Columbian",
@@ -216,6 +234,7 @@ export const arData = [
         "codename":"PoP"
     },
     {
+        "id": 19,
         "name": "Temple of the Great Jaguar",
         "yearBuilt": "732",
         "style": "Pre-Columbian",
@@ -228,6 +247,7 @@ export const arData = [
         "codename":"TGJ"
     },
     {
+        "id": 20,
         "name": "Nunnery Quadrangle",
         "yearBuilt": "800-1000",
         "style": "Pre-Columbian",
@@ -240,6 +260,7 @@ export const arData = [
         "codename":"NUQ"
     },
     {
+        "id": 21,
         "name": "Temple of the Warriors",
         "yearBuilt": "900-1200",
         "style": "Pre-Columbian",
@@ -252,6 +273,7 @@ export const arData = [
         "codename":"ToW"
     },
     {
+        "id": 22,
         "name": "Great Stupa of Sanchi",
         "yearBuilt": "100 BC",
         "style": "Ancient Buddhist",
@@ -264,6 +286,7 @@ export const arData = [
         "codename":"GSS"
     },
     {
+        "id": 23,
         "name": "Somapura Mahavihara",
         "yearBuilt": "700 AD",
         "style": "Ancient Buddhist",
@@ -276,6 +299,7 @@ export const arData = [
         "codename":"SoM"
     },
     {
+        "id": 24,
         "name": "Cave 19 of the Ajanta Caves",
         "yearBuilt": "400 AD",
         "style": "Ancient Buddhist",
@@ -287,6 +311,7 @@ export const arData = [
         "image": "",
         "codename":"CAC"
     },{
+        "id": 25,
         "name": "Hawa Mahal",
         "yearBuilt": "1799",
         "style": "Maru Gurjara",
@@ -299,6 +324,7 @@ export const arData = [
         "codename":"HaM"
     },
     {
+        "id": 26,
         "name": "Navlakha Temple",
         "yearBuilt": "1100 AD",
         "style": "Maru Gurjara",
@@ -311,6 +337,7 @@ export const arData = [
         "codename":"NaT"
     },
     {
+        "id": 27,
         "name": "Jain Vimal Vasahi Temple",
         "yearBuilt": "1031",
         "style": "Maru Gurjara",
@@ -323,6 +350,7 @@ export const arData = [
         "codename":"JVV"
     },
     {
+        "id": 28,
         "name": "Nyatapola Temple",
         "yearBuilt": "1702",
         "style": "Himalayan",
@@ -335,6 +363,7 @@ export const arData = [
         "codename":"NyT"
     },
     {
+        "id": 29,
         "name": "Paro Taktsang",
         "yearBuilt": "1692",
         "style": "Himalayan",
@@ -347,6 +376,7 @@ export const arData = [
         "codename":"PaT"
     },
     {
+        "id": 30,
         "name": "Potala Palace",
         "yearBuilt": "1694",
         "style": "Himalayan",
@@ -359,6 +389,7 @@ export const arData = [
         "codename":"Pot"
     },
     {
+        "id": 31,
         "name": "Jamia Masjid",
         "yearBuilt": "1394",
         "style": "Himalayan",
@@ -371,6 +402,7 @@ export const arData = [
         "codename":"JaM"
     },
     {
+        "id": 32,
         "name": "Padmanabhaswamy Temple",
         "yearBuilt": "300 AD",
         "style": "Dravidian",
@@ -383,6 +415,7 @@ export const arData = [
         "codename":"Pad"
     },
     {
+        "id": 33,
         "name": "Meenakshi Temple",
         "yearBuilt": "1100 AD",
         "style": "Dravidian",
@@ -395,6 +428,7 @@ export const arData = [
         "codename":"Mee"
     },
     {
+        "id": 34,
         "name": "Vitthala Temple",
         "yearBuilt": "1500 AD",
         "style": "Dravidian",
@@ -407,6 +441,7 @@ export const arData = [
         "codename":"Vit"
     },
     {
+        "id": 35,
         "name": "Giant Wild Goose Pagoda",
         "yearBuilt": "652",
         "style": "Sinosphere",
@@ -419,6 +454,7 @@ export const arData = [
         "codename":"GWG"
     },
     {
+        "id": 36,
         "name": "Guanyian Pavilion of the Dule Monastery",
         "yearBuilt": "984",
         "style": "Sinosphere",
@@ -431,6 +467,7 @@ export const arData = [
         "codename":"GPD"
     },
     {
+        "id": 37,
         "name": "Hall of Prayer for Good Harvests",
         "yearBuilt": "1703-1790",
         "style": "Sinosphere",
@@ -443,6 +480,7 @@ export const arData = [
         "codename":"HPG"
     },
     {
+        "id": 38,
         "name": "Temple of Literature",
         "yearBuilt": "1070",
         "style": "Sinosphere",
@@ -455,6 +493,7 @@ export const arData = [
         "codename":"ToL"
     },
     {
+        "id": 39,
         "name": "Gyeongbokgung Palace",
         "yearBuilt": "1395",
         "style": "Sinosphere",
@@ -467,6 +506,7 @@ export const arData = [
         "codename":"GyP"
     },
     {
+        "id": 40,
         "name": "Mausoleum of Emperor Nintoku",
         "yearBuilt": "300 AD",
         "style": "Sinosphere",
@@ -479,6 +519,7 @@ export const arData = [
         "codename":"MEN"
     },
     {
+        "id": 41,
         "name": "Pagoda at Hōryū-ji",
         "yearBuilt": "607",
         "style": "Sinosphere",
@@ -491,6 +532,7 @@ export const arData = [
         "codename":"PaH"
     },
     {
+        "id": 42,
         "name": "Garden of the Ninna-ji Temple",
         "yearBuilt": "888",
         "style": "Sinosphere",
@@ -503,6 +545,7 @@ export const arData = [
         "codename":"GNT"
     },
     {
+        "id": 43,
         "name": "Kinkaku-ji",
         "yearBuilt": "1398",
         "style": "Sinosphere",
@@ -515,6 +558,7 @@ export const arData = [
         "codename":"Kin"
     },
     {
+        "id": 44,
         "name": "Bakong",
         "yearBuilt": "800 AD",
         "style": "Khmer",
@@ -527,6 +571,7 @@ export const arData = [
         "codename":"Bak"
     },
     {
+        "id": 45,
         "name": "Prasat Prang Ku",
         "yearBuilt": "1100 AD",
         "style": "Khmer",
@@ -539,6 +584,7 @@ export const arData = [
         "codename":"PPK"
     },
     {
+        "id": 46,
         "name": "Angkor Wat",
         "yearBuilt": "1100 AD",
         "style": "Khmer",
@@ -551,6 +597,7 @@ export const arData = [
         "codename":"AnW"
     },
     {
+        "id": 47,
         "name": "Champa Temples",
         "yearBuilt": "300 AD",
         "style": "Khmer",
@@ -563,6 +610,7 @@ export const arData = [
         "codename":"Cha"
     },
     {
+        "id": 48,
         "name": "Dome of the Rock",
         "yearBuilt": "691",
         "style": "Islamic",
@@ -575,6 +623,7 @@ export const arData = [
         "codename":"DoR"
     },
     {
+        "id": 49,
         "name": "Great Mosque of Samarra",
         "yearBuilt": "851",
         "style": "Islamic",
@@ -587,6 +636,7 @@ export const arData = [
         "codename":"GMS"
     },
     {
+        "id": 50,
         "name": "Tomb of Shah Rukn-e-Alam",
         "yearBuilt": "1320-1324",
         "style": "Islamic",
@@ -599,6 +649,7 @@ export const arData = [
         "codename":"TSR"
     },
     {
+        "id": 51,
         "name": "Court of the Lions",
         "yearBuilt": "1362-1391",
         "style": "Islamic",
@@ -611,6 +662,7 @@ export const arData = [
         "codename":"CoL"
     },
     {
+        "id": 52,
         "name": "Taj Mahal",
         "yearBuilt": "1649",
         "style": "Islamic",
@@ -623,6 +675,7 @@ export const arData = [
         "codename":"Taj"
     },
     {
+        "id": 53,
         "name": "Basilica of Saint Sabina",
         "yearBuilt": "422-432",
         "style": "Byzantine",
@@ -635,6 +688,7 @@ export const arData = [
         "codename":"BSS"
     },
     {
+        "id": 54,
         "name": "Hagia Irene",
         "yearBuilt": "500 AD",
         "style": "Byzantine",
@@ -647,6 +701,7 @@ export const arData = [
         "codename":"HaI"
     },
     {
+        "id":55 ,
         "name": "Basilica of San Vitale",
         "yearBuilt": "527-548",
         "style": "Byzantine",
@@ -659,6 +714,7 @@ export const arData = [
         "codename":"BSV"
     },
     {
+        "id":56 ,
         "name": "Basilica of Sant'Apollinare in Classe",
         "yearBuilt": "549",
         "style": "Byzantine",
@@ -671,6 +727,7 @@ export const arData = [
         "codename":"BSC"
     },
     {
+        "id": 57,
         "name": "Kapnikarea",
         "yearBuilt": "1050",
         "style": "Byzantine",
@@ -683,6 +740,7 @@ export const arData = [
         "codename":"Kap"
     },
     {
+        "id": 58,
         "name": "Hagia Sophia",
         "yearBuilt": "537",
         "style": "Byzantine",
@@ -695,6 +753,7 @@ export const arData = [
         "codename":"THS"
     },
     {
+        "id": 59,
         "name": "St. Michael's Church",
         "yearBuilt": "1010-1031",
         "style": "Romanesque",
@@ -707,6 +766,7 @@ export const arData = [
         "codename":"SMC"
     },
     {
+        "id": 60,
         "name": "Abbey of Santo Domingo de Silos",
         "yearBuilt": "1085",
         "style": "Romanesque",
@@ -719,6 +779,7 @@ export const arData = [
         "codename":"ASD"
     },
     {
+        "id": 61,
         "name": "Abbey Church of Sainte-Foy",
         "yearBuilt": "1087-1107",
         "style": "Romanesque",
@@ -731,6 +792,7 @@ export const arData = [
         "codename":"ACS"
     },
     {
+        "id": 62,
         "name": "Durham Cathedral",
         "yearBuilt": "1093-1133",
         "style": "Romanesque",
@@ -743,6 +805,7 @@ export const arData = [
         "codename":"DuC"
     },
     {
+        "id": 63,
         "name": "Maria Laach Abbey",
         "yearBuilt": "1093-1230",
         "style": "Romanesque",
@@ -755,6 +818,7 @@ export const arData = [
         "codename":"MLA"
     },
     {
+        "id": 64,
         "name": "Munsterkerk",
         "yearBuilt": "1220",
         "style": "Romanesque",
@@ -767,6 +831,7 @@ export const arData = [
         "codename":"Mun"
     },
     {
+        "id": 65,
         "name": "Notre-Dame Cathedral",
         "yearBuilt": "1163",
         "style": "Gothic",
@@ -779,6 +844,7 @@ export const arData = [
         "codename":"NDC"
     },
     {
+        "id": 66,
         "name": "Canterbury Cathedral",
         "yearBuilt": "1174-1184",
         "style": "Gothic",
@@ -791,6 +857,7 @@ export const arData = [
         "codename":"CaC"
     },
     {
+        "id": 67,
         "name": "Chartres Cathedral",
         "yearBuilt": "1194-1250",
         "style": "Gothic",
@@ -803,6 +870,7 @@ export const arData = [
         "codename":"ChC"
     },
     {
+        "id": 68,
         "name": "Town Hall",
         "yearBuilt": "1376-1420",
         "style": "Gothic",
@@ -815,6 +883,7 @@ export const arData = [
         "codename":"Tow"
     },
     {
+        "id": 69,
         "name": "Hotel de Sens",
         "yearBuilt": "1475-1519",
         "style": "Gothic",
@@ -827,6 +896,7 @@ export const arData = [
         "codename":"HDS"
     },
     {
+        "id": 70,
         "name": "Königsberg Cathedral",
         "yearBuilt": "1330-1380",
         "style": "Gothic",
@@ -839,6 +909,7 @@ export const arData = [
         "codename":"Kon"
     },
     {
+        "id": 71,
         "name": "Ridderzaal",
         "yearBuilt": "1288",
         "style": "Gothic",
@@ -851,6 +922,7 @@ export const arData = [
         "codename":"Rid"
     },
     {
+        "id": 72,
         "name": "Sainte-Chapelle",
         "yearBuilt": "1243-1248",
         "style": "Gothic",
@@ -863,6 +935,7 @@ export const arData = [
         "codename":"Sai"
     },
     {
+        "id": 73,
         "name": "Florence Cathedral",
         "yearBuilt": "1294-1436",
         "style": "Rennaisance",
@@ -875,6 +948,7 @@ export const arData = [
         "codename":"FlC"
     },
     {
+        "id": 74,
         "name": "Basilica of Sant'Andrea",
         "yearBuilt": "1470",
         "style": "Rennaisance",
@@ -887,6 +961,7 @@ export const arData = [
         "codename":"BSA"
     },
     {
+        "id": 75,
         "name": "Tempietto, The",
         "yearBuilt": "1502",
         "style": "Rennaisance",
@@ -899,6 +974,7 @@ export const arData = [
         "codename":"Tem"
     },
     {
+        "id": 76,
         "name": "Villa Madama",
         "yearBuilt": "1518-1525",
         "style": "Rennaisance",
@@ -911,6 +987,7 @@ export const arData = [
         "codename":"ViM"
     },
     {
+        "id": 77,
         "name": "Château d'Azay-le-Rideau",
         "yearBuilt": "1518-1527",
         "style": "Rennaisance",
@@ -923,6 +1000,7 @@ export const arData = [
         "codename":"CAR"
     },
     {
+        "id": 78,
         "name": "Château de Chambord",
         "yearBuilt": "1519-1547",
         "style": "Rennaisance",
@@ -935,6 +1013,7 @@ export const arData = [
         "codename":"CdC"
     },
     {
+        "id": 79,
         "name": "Palazzo Farnese",
         "yearBuilt": "1534-1546",
         "style": "Rennaisance",
@@ -947,6 +1026,7 @@ export const arData = [
         "codename":"PaR"
     },
     {
+        "id": 80,
         "name": "Temple du Marais",
         "yearBuilt": "1632",
         "style": "Baroque",
@@ -959,6 +1039,7 @@ export const arData = [
         "codename":"TdM"
     },
     {
+        "id": 81,
         "name": "San Carlo alle Quattro Fontane",
         "yearBuilt": "1638-1677",
         "style": "Baroque",
@@ -971,6 +1052,7 @@ export const arData = [
         "codename":"SCQ"
     },
     {
+        "id": 82,
         "name": "St. Peter's Square",
         "yearBuilt": "1656-1667",
         "style": "Baroque",
@@ -983,6 +1065,7 @@ export const arData = [
         "codename":"SPQ"
     },
     {
+        "id": 83,
         "name": "Gardens at Vaux-le-Vicomte",
         "yearBuilt": "1657-1661",
         "style": "Baroque",
@@ -995,6 +1078,7 @@ export const arData = [
         "codename":"GVV"
     },
     {
+        "id": 84,
         "name": "Dôme des Invalides",
         "yearBuilt": "1677-1706",
         "style": "Baroque",
@@ -1007,6 +1091,7 @@ export const arData = [
         "codename":"DdI"
     },
     {
+        "id": 85,
         "name": "Royal Naval Hospital",
         "yearBuilt": "1695-1715",
         "style": "Baroque",
@@ -1019,6 +1104,7 @@ export const arData = [
         "codename":"RVH"
     },
     {
+        "id": 86,
         "name": "Church of Saint Nicholas",
         "yearBuilt": "1703-1711",
         "style": "Baroque",
@@ -1031,6 +1117,7 @@ export const arData = [
         "codename":"CSN"
     },
     {
+        "id": 87,
         "name": "Karlskirche",
         "yearBuilt": "1715-1735",
         "style": "Baroque",
@@ -1043,6 +1130,7 @@ export const arData = [
         "codename":"Kar"
     },
     {
+        "id": 88,
         "name": "Royal Palace of Amsterdam",
         "yearBuilt": "1648-1665",
         "style": "Baroque",
@@ -1055,6 +1143,7 @@ export const arData = [
         "codename":"RPA"
     },
     {
+        "id": 89,
         "name": "Zwinger",
         "yearBuilt": "1719",
         "style": "Rococo",
@@ -1067,6 +1156,7 @@ export const arData = [
         "codename":"Zwi"
     },
     {
+        "id": 90,
         "name": "Château St. Gerlach",
         "yearBuilt": "1735",
         "style": "Rococo",
@@ -1079,6 +1169,7 @@ export const arData = [
         "codename":"CSG"
     },
     {
+        "id": 91,
         "name": "Door of the Hôtel de Chenizot",
         "yearBuilt": "1719",
         "style": "Rococo",
@@ -1091,6 +1182,7 @@ export const arData = [
         "codename":"DHC"
     },
     {
+        "id": 92,
         "name": "Queluz Palace",
         "yearBuilt": "1752",
         "style": "Rococo",
@@ -1103,6 +1195,7 @@ export const arData = [
         "codename":"Qup"
     },
     {
+        "id": 93,
         "name": "Pilgrimage Church of Wies",
         "yearBuilt": "1754",
         "style": "Rococo",
@@ -1115,6 +1208,7 @@ export const arData = [
         "codename":"PCW"
     },
     {
+        "id": 94,
         "name": "English landscape garden at Stourhead",
         "yearBuilt": "1740",
         "style": "Neo-classicism",
@@ -1127,6 +1221,7 @@ export const arData = [
         "codename":"ELG"
     },
     {
+        "id": 95,
         "name": "Panthéon (Paris)",
         "yearBuilt": "1758-1790",
         "style": "Neo-classicism",
@@ -1139,6 +1234,7 @@ export const arData = [
         "codename":"PaP"
     },
     {
+        "id": 96,
         "name": "Hôtel de la Marine",
         "yearBuilt": "1761-1770",
         "style": "Neo-classicism",
@@ -1151,6 +1247,7 @@ export const arData = [
         "codename":"HdM"
     },
     {
+        "id": 97,
         "name": "Stairway of the Grand Theater of Bordeaux",
         "yearBuilt": "1777-1780",
         "style": "Neo-classicism",
@@ -1163,6 +1260,7 @@ export const arData = [
         "codename":"SGT"
     },
     {
+        "id": 98,
         "name": "Villa Welgelegen",
         "yearBuilt": "1789",
         "style": "Neo-classicism",
@@ -1175,6 +1273,7 @@ export const arData = [
         "codename":"ViW"
     },
     {
+        "id": 99,
         "name": "Neue Wache",
         "yearBuilt": "1816",
         "style": "Neo-classicism",
@@ -1187,6 +1286,7 @@ export const arData = [
         "codename":"NeW"
     },
     {
+        "id": 100,
         "name": "Burns Monument",
         "yearBuilt": "1820-1831",
         "style": "Neo-classicism",
@@ -1199,6 +1299,7 @@ export const arData = [
         "codename":"BuM"
     },
     {
+        "id": 101,
         "name": "Petit Trianon",
         "yearBuilt": "1764",
         "style": "Neo-classicism",
@@ -1211,6 +1312,7 @@ export const arData = [
         "codename":"PeT"
     },
     {
+        "id": 102,
         "name": "Exterior of the Palais Garnier",
         "yearBuilt": "1860",
         "style": "Beaux Arts",
@@ -1223,6 +1325,7 @@ export const arData = [
         "codename":"EPG"
     },
     {
+        "id": 103,
         "name": "Grand stairs of the Palais Garnier",
         "yearBuilt": "1860-1875",
         "style": "Beaux Arts",
@@ -1235,6 +1338,7 @@ export const arData = [
         "codename":"GSP"
     },
     {
+        "id": 104,
         "name": "The CEC Palace on Victory Avenue",
         "yearBuilt": "1897-1900",
         "style": "Beaux Arts",
@@ -1247,6 +1351,7 @@ export const arData = [
         "codename":"CEC"
     },
     {
+        "id": 105,
         "name": "Cantacuzino Palace",
         "yearBuilt": "1898-1906",
         "style": "Beaux Arts",
@@ -1259,6 +1364,7 @@ export const arData = [
         "codename":"CaP"
     },
     {
+        "id": 106,
         "name": "Petit Palais",
         "yearBuilt": "1900",
         "style": "Beaux Arts",
@@ -1271,6 +1377,7 @@ export const arData = [
         "codename":"PeP"
     },
     {
+        "id": 107,
         "name": "Grand Central Terminal",
         "yearBuilt": "1903",
         "style": "Beaux Arts",
@@ -1283,6 +1390,7 @@ export const arData = [
         "codename":"GCT"
     },
     {
+        "id": 108,
         "name": "Beaux Arts Villa",
         "yearBuilt": "1913",
         "style": "Beaux Arts",
@@ -1295,6 +1403,7 @@ export const arData = [
         "codename":"BAV"
     },
     {
+        "id": 109,
         "name": "Hôtel Tassel",
         "yearBuilt": "1894",
         "style": "Art Nouveau",
@@ -1307,6 +1416,7 @@ export const arData = [
         "codename":"HoT"
     },
     {
+        "id": 110,
         "name": "Secession Building",
         "yearBuilt": "1897",
         "style": "Art Nouveau",
@@ -1319,6 +1429,7 @@ export const arData = [
         "codename":"SeB"
     },
     {
+        "id": 111,
         "name": "La Fermette Marbeuf",
         "yearBuilt": "1898",
         "style": "Art Nouveau",
@@ -1331,6 +1442,7 @@ export const arData = [
         "codename":"LFM"
     },
     {
+        "id": 112,
         "name": "Leonardo da Vinci Highschool",
         "yearBuilt": "1899",
         "style": "Art Nouveau",
@@ -1343,6 +1455,7 @@ export const arData = [
         "codename":"LVH"
     },
     {
+        "id": 113,
         "name": "Bijouterie Fouquet",
         "yearBuilt": "1900",
         "style": "Art Nouveau",
@@ -1355,6 +1468,7 @@ export const arData = [
         "codename":"BiF"
     },
     {
+        "id": 114,
         "name": "Porte Dauphine Métro Station",
         "yearBuilt": "1900",
         "style": "Art Nouveau",
@@ -1367,6 +1481,7 @@ export const arData = [
         "codename":"PDM"
     },
     {
+        "id": 115,
         "name": "Maison Huot",
         "yearBuilt": "1903",
         "style": "Art Nouveau",
@@ -1379,6 +1494,7 @@ export const arData = [
         "codename":"MaH"
     },
     {
+        "id": 116,
         "name": "Casa Batlló",
         "yearBuilt": "1904-1906",
         "style": "Art Nouveau",
@@ -1391,6 +1507,7 @@ export const arData = [
         "codename":"CaB"
     },
     {
+        "id": 117,
         "name": "Mița the Cyclist House",
         "yearBuilt": "1910",
         "style": "Art Nouveau",
@@ -1403,6 +1520,7 @@ export const arData = [
         "codename":"MCH"
     },
     {
+        "id": 118,
         "name": "Les Chardons Building",
         "yearBuilt": "1903",
         "style": "Art Nouveau",
@@ -1415,6 +1533,7 @@ export const arData = [
         "codename":"LCB"
     },
     {
+        "id": 119,
         "name": "Barcelona Pavilion",
         "yearBuilt": "1929",
         "style": "International",
@@ -1427,6 +1546,7 @@ export const arData = [
         "codename":"BaP"
     },
     {
+        "id": 120,
         "name": "Villa Savoye",
         "yearBuilt": "1929-1930",
         "style": "International",
@@ -1439,6 +1559,7 @@ export const arData = [
         "codename":"ViS"
     },
     {
+        "id": 121,
         "name": "Lever House",
         "yearBuilt": "1952",
         "style": "International",
@@ -1451,6 +1572,7 @@ export const arData = [
         "codename":"LeH"
     },
     {
+        "id": 122,
         "name": "Seagram Building",
         "yearBuilt": "1958",
         "style": "International",
@@ -1463,6 +1585,7 @@ export const arData = [
         "codename":"SBu"
     },
     {
+        "id": 123,
         "name": "United States Air Force Academy Cadet Chapel",
         "yearBuilt": "1963",
         "style": "International",
@@ -1475,6 +1598,7 @@ export const arData = [
         "codename":"UCC"
     },
     {
+        "id": 124,
         "name": "Rudolph Hall",
         "yearBuilt": "1963",
         "style": "Brutalist",
@@ -1487,6 +1611,7 @@ export const arData = [
         "codename":"RuH"
     },
     {
+        "id": 125,
         "name": "Habitat 67",
         "yearBuilt": "1966-1967",
         "style": "Brutalist",
@@ -1499,6 +1624,7 @@ export const arData = [
         "codename":"H67"
     },
     {
+        "id": 126,
         "name": "Geisel Library",
         "yearBuilt": "1970",
         "style": "Brutalist",
@@ -1511,6 +1637,7 @@ export const arData = [
         "codename":"GeL"
     },
     {
+        "id": 127,
         "name": "Robarts Library",
         "yearBuilt": "1973",
         "style": "Brutalist",
@@ -1523,6 +1650,7 @@ export const arData = [
         "codename":"RoL"
     },
     {
+        "id": 128,
         "name": "Freeway Park Fountain",
         "yearBuilt": "1976",
         "style": "Brutalist",
@@ -1535,6 +1663,7 @@ export const arData = [
         "codename":"FPF"
     },
     {
+        "id": 129,
         "name": "Piazza d'Italia",
         "yearBuilt": "1978",
         "style": "Post-modern",
@@ -1547,6 +1676,7 @@ export const arData = [
         "codename":"PdI"
     },
     {
+        "id": 130,
         "name": "Neue Staatsgalerie",
         "yearBuilt": "1984",
         "style": "Post-modern",
@@ -1559,6 +1689,7 @@ export const arData = [
         "codename":"NeS"
     },
     {
+        "id": 131,
         "name": "AT&T Headquarters",
         "yearBuilt": "1984",
         "style": "Post-modern",
@@ -1571,6 +1702,7 @@ export const arData = [
         "codename":"ATT"
     },
     {
+        "id": 132,
         "name": "Team Disney Building",
         "yearBuilt": "1990",
         "style": "Post-modern",
@@ -1583,6 +1715,7 @@ export const arData = [
         "codename":"TDB"
     },
     {
+        "id": 133,
         "name": "Bundeskanzleramt",
         "yearBuilt": "1997-2001",
         "style": "Post-modern",
@@ -1595,6 +1728,7 @@ export const arData = [
         "codename":"Bun"
     },
     {
+        "id": 134,
         "name": "Wexner Center for the Arts",
         "yearBuilt": "1989",
         "style": "De-constructivist",
@@ -1607,6 +1741,7 @@ export const arData = [
         "codename":"WCA"
     },
     {
+        "id": 135,
         "name": "Vitra Fire Station",
         "yearBuilt": "1989-1993",
         "style": "De-constructivist",
@@ -1619,6 +1754,7 @@ export const arData = [
         "codename":"VFS"
     },
     {
+        "id": 136,
         "name": "Jewish Museum",
         "yearBuilt": "1992-1999",
         "style": "De-constructivist",
@@ -1631,6 +1767,7 @@ export const arData = [
         "codename":"JeM"
     },
     {
+        "id": 137,
         "name": "Guggenheim Museum",
         "yearBuilt": "1997",
         "style": "De-constructivist",
@@ -1643,6 +1780,7 @@ export const arData = [
         "codename":"GuM"
     },
     {
+        "id": 138,
         "name": "Phaeno Science Center",
         "yearBuilt": "2005",
         "style": "De-constructivist",

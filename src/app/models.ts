@@ -1,4 +1,5 @@
 export interface ArchDataModel {
+    id: number,
     name: string,
     yearBuilt: string,
     style: string,
