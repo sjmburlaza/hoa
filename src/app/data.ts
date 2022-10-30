@@ -7,7 +7,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Saqqara, Egypt",
-        "continent": "",
+        "continent": "Africa",
         "description": "",
         "image": "",
         "codename":"POD"
@@ -19,8 +19,8 @@ export const arData = [
         "style": "Ancient Egyptian",
         "buildingType": "",
         "scale": "",
-        "location": "Giza Egypt",
-        "continent": "",
+        "location": "Giza, Egypt",
+        "continent": "Africa",
         "description": "",
         "image": "",
         "codename":"GPG"
@@ -33,7 +33,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Luxor, Egypt",
-        "continent": "",
+        "continent": "Africa",
         "description": "",
         "image": "",
         "codename":"HHK"
@@ -46,7 +46,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Egypt",
-        "continent": "",
+        "continent": "Africa",
         "description": "",
         "image": "",
         "codename":"GTA"
@@ -85,7 +85,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Athens, Greece",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ERE"
@@ -98,7 +98,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Athens, Greece",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PAR"
@@ -111,7 +111,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Delphi, Greece",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"TSP"
@@ -124,7 +124,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Epidaurus, Greece",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ATE"
@@ -137,7 +137,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"COL"
@@ -150,7 +150,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "France",
-        "continent": "",
+        "continent": "Europe",
         "description": "Roman aqueduct",
         "image": "",
         "codename":"PDG"
@@ -163,7 +163,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"MCa"
@@ -176,7 +176,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PAN"
@@ -189,7 +189,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Ephesus, Turkey",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"LoC"
@@ -202,7 +202,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"AoC"
@@ -215,7 +215,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Teotihuacan, Mexico",
-        "continent": "",
+        "continent": "South America",
         "description": "",
         "image": "",
         "codename":"AoD"
@@ -228,7 +228,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Chiapas, Mexico",
-        "continent": "",
+        "continent": "South America",
         "description": "",
         "image": "",
         "codename":"PoP"
@@ -241,7 +241,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Tikal, Guatemala",
-        "continent": "",
+        "continent": "South America",
         "description": "",
         "image": "",
         "codename":"TGJ"
@@ -254,7 +254,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Yucatan, Mexico",
-        "continent": "",
+        "continent": "South America",
         "description": "",
         "image": "",
         "codename":"NUQ"
@@ -267,7 +267,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Yucatan, Mexico",
-        "continent": "",
+        "continent": "South America",
         "description": "",
         "image": "",
         "codename":"ToW"
@@ -280,7 +280,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Madhya Pradesh, India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"GSS"
@@ -293,7 +293,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Bangladesh",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"SoM"
@@ -306,7 +306,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"CAC"
@@ -318,7 +318,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Jaipur, Rajasthan, India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"HaM"
@@ -331,7 +331,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Ghumli, Gujarat, India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"NaT"
@@ -344,7 +344,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Mount Abu, India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"JVV"
@@ -357,7 +357,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Bhaktapur, Nepal",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"NyT"
@@ -370,7 +370,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paro, Bhutan",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"PaT"
@@ -383,7 +383,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Lhasa, Tibet",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Pot"
@@ -396,7 +396,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Kashmir, India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"JaM"
@@ -409,7 +409,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Pad"
@@ -422,7 +422,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Tamil, Nadu, India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Mee"
@@ -435,7 +435,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Hampi, Kartanaka, India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Vit"
@@ -448,7 +448,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Shaanxi, China",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"GWG"
@@ -461,7 +461,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Jixian, China",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"GPD"
@@ -474,7 +474,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Beijing, China",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"HPG"
@@ -487,7 +487,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Hanoi, Vietnam",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"ToL"
@@ -500,7 +500,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Seoul, South Korea",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"GyP"
@@ -513,7 +513,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Sakai, Osaka Prefecture, Japan",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"MEN"
@@ -526,7 +526,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Nara Prefecture, Japan",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"PaH"
@@ -539,7 +539,7 @@ export const arData = [
         "buildingType": "Garden",
         "scale": "",
         "location": "Kyoto, Japan",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"GNT"
@@ -552,7 +552,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Kyoto, Japan",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Kin"
@@ -565,7 +565,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Hariharalaya, Roluos, Cambodia",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Bak"
@@ -578,7 +578,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Sisaket, Thailand",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"PPK"
@@ -591,7 +591,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Angkor, Cambodia",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"AnW"
@@ -604,7 +604,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "My Son, Vietnam",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Cha"
@@ -617,7 +617,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Jerusalem",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"DoR"
@@ -630,7 +630,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Samarra, Iraq",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"GMS"
@@ -643,7 +643,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Multan, Pakistan",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"TSR"
@@ -656,7 +656,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Alhambra, Granada, Spain",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CoL"
@@ -669,7 +669,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Agra, India",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Taj"
@@ -682,7 +682,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Aventine Hill, Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"BSS"
@@ -695,7 +695,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Istanbul, Turkey",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"HaI"
@@ -708,7 +708,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Ravenna, Italy",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"BSV"
@@ -721,7 +721,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Ravenna, Italy",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"BSC"
@@ -734,7 +734,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Athens, Greece",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Kap"
@@ -747,7 +747,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Istanbul, Turkey",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"THS"
@@ -760,7 +760,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Hildesheim, Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"SMC"
@@ -773,7 +773,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Santo Domingo de Silos, Spain",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ASD"
@@ -786,7 +786,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Conques, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ACS"
@@ -799,7 +799,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Durham, UK",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"DuC"
@@ -812,7 +812,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"MLA"
@@ -825,7 +825,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Netherlands",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Mun"
@@ -838,7 +838,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"NDC"
@@ -851,7 +851,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Kent, UK",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CaC"
@@ -864,7 +864,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Chartres, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ChC"
@@ -877,7 +877,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Bruges, Belgium",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Tow"
@@ -890,7 +890,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"HDS"
@@ -903,7 +903,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Kaliningrad, Russia",
-        "continent": "",
+        "continent": "Asia",
         "description": "",
         "image": "",
         "codename":"Kon"
@@ -916,7 +916,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Hague, Netherlands",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Rid"
@@ -929,7 +929,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Sai"
@@ -942,7 +942,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Florence, Italy",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"FlC"
@@ -955,7 +955,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Mantua, Italy",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"BSA"
@@ -968,7 +968,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Tem"
@@ -981,7 +981,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "outside Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ViM"
@@ -994,7 +994,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Loire, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CAR"
@@ -1007,7 +1007,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Loire, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CdC"
@@ -1020,7 +1020,7 @@ export const arData = [
         "buildingType": "Religious",
         "scale": "",
         "location": "Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PaR"
@@ -1033,7 +1033,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"TdM"
@@ -1046,7 +1046,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"SCQ"
@@ -1059,7 +1059,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Rome",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"SPQ"
@@ -1072,7 +1072,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"GVV"
@@ -1085,7 +1085,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"DdI"
@@ -1098,7 +1098,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Greenwich, London",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"RVH"
@@ -1111,7 +1111,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Prague, Czech Republic",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CSN"
@@ -1124,7 +1124,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Vienna, Austria",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Kar"
@@ -1137,7 +1137,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Amsterdam, The Netherlands",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"RPA"
@@ -1150,7 +1150,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Dresden, Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Zwi"
@@ -1163,7 +1163,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "The Netherlands",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CSG"
@@ -1176,7 +1176,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"DHC"
@@ -1189,7 +1189,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Lisbon, Portugal",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Qup"
@@ -1202,7 +1202,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Steingaden, Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PCW"
@@ -1215,7 +1215,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "UK",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ELG"
@@ -1228,7 +1228,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PaP"
@@ -1241,7 +1241,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"HdM"
@@ -1254,7 +1254,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Bordeaux, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"SGT"
@@ -1267,7 +1267,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Harlem, The Netherlands",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ViW"
@@ -1280,7 +1280,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Berlin, Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"NeW"
@@ -1293,7 +1293,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Edinburgh, UK",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"BuM"
@@ -1306,7 +1306,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Versailles, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PeT"
@@ -1319,7 +1319,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"EPG"
@@ -1332,7 +1332,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"GSP"
@@ -1345,7 +1345,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Bucharest, Romania",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CEC"
@@ -1358,7 +1358,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Bucharest, Romania",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CaP"
@@ -1371,7 +1371,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PeP"
@@ -1384,7 +1384,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "New York City",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"GCT"
@@ -1397,7 +1397,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Antwerp, Belgium",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"BAV"
@@ -1410,7 +1410,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Brussels, Belgium",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"HoT"
@@ -1423,7 +1423,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Vienna, Austria",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"SeB"
@@ -1436,7 +1436,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"LFM"
@@ -1449,7 +1449,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"LVH"
@@ -1462,7 +1462,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"BiF"
@@ -1475,7 +1475,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PDM"
@@ -1488,7 +1488,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Nancy, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"MaH"
@@ -1501,7 +1501,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Barcelona, Spain",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"CaB"
@@ -1514,7 +1514,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Bucharest, Romania",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"MCH"
@@ -1527,7 +1527,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Paris, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"LCB"
@@ -1540,7 +1540,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Barcelona, Spain",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"BaP"
@@ -1553,7 +1553,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Poissy, France",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"ViS"
@@ -1566,7 +1566,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "New York City",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"LeH"
@@ -1579,7 +1579,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "New York City",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"SBu"
@@ -1592,7 +1592,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Colorado, USA",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"UCC"
@@ -1605,7 +1605,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "New Haven, Connecticut",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"RuH"
@@ -1618,7 +1618,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Montreal, Canada",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"H67"
@@ -1631,7 +1631,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "San Diego, California, USA",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"GeL"
@@ -1644,7 +1644,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Toronto, Canada",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"RoL"
@@ -1657,7 +1657,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Seattle, Washington, USA",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"FPF"
@@ -1670,7 +1670,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "New Orleans, USA",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"PdI"
@@ -1683,7 +1683,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Stuttgart, Germany",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"NeS"
@@ -1696,7 +1696,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "New York City",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"ATT"
@@ -1709,7 +1709,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Los Angeles, USA",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"TDB"
@@ -1722,7 +1722,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Berlin, Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"Bun"
@@ -1735,7 +1735,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Ohio, US",
-        "continent": "",
+        "continent": "North America",
         "description": "",
         "image": "",
         "codename":"WCA"
@@ -1748,7 +1748,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"VFS"
@@ -1761,7 +1761,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Berlin, Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"JeM"
@@ -1774,7 +1774,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Bilbao, Spain",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"GuM"
@@ -1787,7 +1787,7 @@ export const arData = [
         "buildingType": "",
         "scale": "",
         "location": "Wolfsburg, Germany",
-        "continent": "",
+        "continent": "Europe",
         "description": "",
         "image": "",
         "codename":"PSC"

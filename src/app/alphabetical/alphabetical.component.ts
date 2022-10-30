@@ -11,7 +11,6 @@ import { renderAlphsInUI } from '../utils-helper';
 export class AlphabeticalComponent implements OnInit {
 
   data: ArchDataModel[] = [];
-  groupedAlphabetically: any;
 
   constructor(
   ) { }

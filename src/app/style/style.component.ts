@@ -9,6 +9,7 @@ import { renderAlphsInUI } from '../utils-helper';
   styleUrls: ['./style.component.css']
 })
 export class StyleComponent implements OnInit {
+  
   data: ArchDataModel[] = [];
 
   constructor() { }
