@@ -53,7 +53,7 @@ export class ChronologicalComponent implements OnInit {
 
       for (let group of grouped[key]) { 
         let li = document.createElement("li"); 
-        li.innerHTML = group['code'];
+        li.innerHTML = group['codename'];
         li.style.borderStyle = "solid";
         li.style.marginTop = "5px";
         li.style.fontSize = "1vw";

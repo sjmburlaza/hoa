@@ -16,11 +16,16 @@ export class StyleComponent implements OnInit {
     this.data = arData;
     console.log(this.data)
     this.sortData();
+    // location.reload();
+  }
+
+  ngAfterViewInit(): void {
+    
   }
 
   sortData(): void {
-    const grouped = arData.reduce(function (r, a) {
-      let style = a.style
+    const grouped = this.data.reduce(function (r, a) {
+      let style = a.style;
       r[style] = r[style] || [];
       r[style].push(a);
       return r;
@@ -32,7 +37,7 @@ export class StyleComponent implements OnInit {
 
   renderAlphsInUI(grouped: any): void {
     for (let key in grouped) {
-      let li = document.createElement("li"); 
+      let li = document.createElement("li");
       li.classList.add('list-group-item');
       li.style.width = "4.3vw";
       const outerUl = document.getElementById("outerUl");
@@ -54,7 +59,7 @@ export class StyleComponent implements OnInit {
 
       for (let group of grouped[key]) { 
         let li = document.createElement("li"); 
-        li.innerHTML = group['code'];
+        li.innerHTML = group['codename'];
         li.style.borderStyle = "solid";
         li.style.width = "2vw";
         li.style.marginTop = "5px";

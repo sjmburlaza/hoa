@@ -22,7 +22,7 @@ export class AlphabeticalComponent implements OnInit {
   }
 
   sortData(): void {
-    const arData = this.data.sort((a, b) => a.name.localeCompare(b.name))
+    const arData = this.data.sort((a, b) => a.name.localeCompare(b.name));
     const grouped = arData.reduce(function (r, a) {
       let letter = (a.name)[0]
       r[letter] = r[letter] || [];
@@ -39,7 +39,8 @@ export class AlphabeticalComponent implements OnInit {
     for (let key in grouped) {
       let li = document.createElement("li"); 
       li.classList.add('list-group-item');
-      li.style.width = "5vw";
+      li.style.width = "4.5vw";
+      li.style.textAlign = "center"
       const outerUl = document.getElementById("outerUl");
       if (outerUl) {
         outerUl.appendChild(li);
@@ -49,7 +50,7 @@ export class AlphabeticalComponent implements OnInit {
       if (alphUl) {
         let li = document.createElement("li"); 
         li.innerHTML = key;
-        li.style.width = "5vw";
+        li.style.width = "4.5vw";
         alphUl.appendChild(li);
       }
 
@@ -57,11 +58,12 @@ export class AlphabeticalComponent implements OnInit {
 
       for (let group of grouped[key]) { 
         let li = document.createElement("li"); 
-        li.innerHTML = group['code'];
+        li.innerHTML = group['codename'];
         li.style.borderStyle = "solid";
         li.style.marginTop = "5px";
+        // li.style.width = "3vw";
         li.style.textAlign = "center"
-        li.style.fontSize = "1vw";
+        li.style.fontSize = "0.8vw";
         ul.append(li);
       }
       li.append(ul);

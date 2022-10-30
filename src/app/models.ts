@@ -7,5 +7,6 @@ export interface ArchDataModel {
     location: string,
     continent: string,
     description: string,
-    image: string
+    image: string,
+    codename: string
 }
