@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { arData } from '../data';
 import { ArchDataModel } from '../models';
+import { renderAlphsInUI } from '../utils-helper';
 
 @Component({
   selector: 'app-chronological',
@@ -15,56 +16,31 @@ export class ChronologicalComponent implements OnInit {
 
   ngOnInit(): void {
     this.data = arData;
-    console.log(this.data)
     this.sortData();
   }
 
   sortData(): void {
-    const grouped = arData.reduce(function (r, a) {
-      let style = a.style
-      r[style] = r[style] || [];
-      r[style].push(a);
+    let BC = this.data.filter(d => d.yearBuilt[d.yearBuilt.length -1] === 'C');
+    let AD = this.data.filter(d => d.yearBuilt[d.yearBuilt.length -1] !== 'C');
+
+    AD = AD.sort((a, b) => a.id - b.id);
+    const grouped = AD.reduce(function (r, a) {
+      const yearBuilt = ((a.yearBuilt).split('-')[0]).padStart(4, "0");
+      let century = yearBuilt.substring(0, 2) + '00s';
+      r[century] = r[century] || [];
+      r[century].push(a);
       return r;
     }, Object.create(null));
 
-    console.log(grouped);
-    this.renderAlphsInUI(grouped);
+    let arrGroup: [string, any][] = Object.entries(grouped);
+    const ar1 = arrGroup[18][1].slice(0, 20);
+    const ar2 = arrGroup[18][1].slice(20);
+    arrGroup[18] = ["1900s", ar1]
+    const insertAr = ["1950s", ar2];
+
+    let sortedGroup = [...arrGroup, insertAr].sort((a, b) => a[0].localeCompare(b[0]));
+    sortedGroup = [["BC", BC], ...sortedGroup];
+    const sortedObjGroup = Object.fromEntries(sortedGroup);
+    renderAlphsInUI(sortedObjGroup);
   }
-
-  renderAlphsInUI(grouped: any): void {
-    for (let key in grouped) {
-      let li = document.createElement("li"); 
-      li.classList.add('list-group-item');
-      li.style.width = "5vw";
-      const outerUl = document.getElementById("outerUl");
-      if (outerUl) {
-        outerUl.appendChild(li);
-      }
-
-      const alphUl = document.getElementById("alphUl");
-      if (alphUl) {
-        let li = document.createElement("li"); 
-        li.innerHTML = key;
-        li.style.width = "5vw";
-        alphUl.appendChild(li);
-      }
-
-      let ul = document.createElement("ul"); 
-
-      for (let group of grouped[key]) { 
-        let li = document.createElement("li"); 
-        li.innerHTML = group['codename'];
-        li.style.borderStyle = "solid";
-        li.style.marginTop = "5px";
-        li.style.fontSize = "1vw";
-        ul.append(li);
-      }
-      li.append(ul);
-      ul.style.listStyle = "none";
-      ul.style.margin = "0";
-      ul.style.padding = "0";
-      
-    }
-  }
-
 }

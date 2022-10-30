@@ -67,7 +67,7 @@ export const arData = [
     {
         "id": 6,
         "name": "Temple of Segesta",
-        "yearBuilt": "400 AD",
+        "yearBuilt": "400",
         "style": "Greek / Roman",
         "buildingType": "",
         "scale": "",
@@ -145,7 +145,7 @@ export const arData = [
     {
         "id": 12,
         "name": "Pont du Gard",
-        "yearBuilt": "40-60 AD",
+        "yearBuilt": "40-60",
         "style": "Greek / Roman",
         "buildingType": "",
         "scale": "",
@@ -158,7 +158,7 @@ export const arData = [
     {
         "id": 13,
         "name": "Maison Carrée",
-        "yearBuilt": "100 AD",
+        "yearBuilt": "100",
         "style": "Greek / Roman",
         "buildingType": "",
         "scale": "",
@@ -288,7 +288,7 @@ export const arData = [
     {
         "id": 23,
         "name": "Somapura Mahavihara",
-        "yearBuilt": "700 AD",
+        "yearBuilt": "700",
         "style": "Ancient Buddhist",
         "buildingType": "",
         "scale": "",
@@ -301,7 +301,7 @@ export const arData = [
     {
         "id": 24,
         "name": "Cave 19 of the Ajanta Caves",
-        "yearBuilt": "400 AD",
+        "yearBuilt": "400",
         "style": "Ancient Buddhist",
         "buildingType": "",
         "scale": "",
@@ -326,7 +326,7 @@ export const arData = [
     {
         "id": 26,
         "name": "Navlakha Temple",
-        "yearBuilt": "1100 AD",
+        "yearBuilt": "1100",
         "style": "Maru Gurjara",
         "buildingType": "",
         "scale": "",
@@ -404,7 +404,7 @@ export const arData = [
     {
         "id": 32,
         "name": "Padmanabhaswamy Temple",
-        "yearBuilt": "300 AD",
+        "yearBuilt": "300",
         "style": "Dravidian",
         "buildingType": "Religious",
         "scale": "",
@@ -417,7 +417,7 @@ export const arData = [
     {
         "id": 33,
         "name": "Meenakshi Temple",
-        "yearBuilt": "1100 AD",
+        "yearBuilt": "1100",
         "style": "Dravidian",
         "buildingType": "",
         "scale": "",
@@ -430,7 +430,7 @@ export const arData = [
     {
         "id": 34,
         "name": "Vitthala Temple",
-        "yearBuilt": "1500 AD",
+        "yearBuilt": "1500",
         "style": "Dravidian",
         "buildingType": "",
         "scale": "",
@@ -508,7 +508,7 @@ export const arData = [
     {
         "id": 40,
         "name": "Mausoleum of Emperor Nintoku",
-        "yearBuilt": "300 AD",
+        "yearBuilt": "300",
         "style": "Sinosphere",
         "buildingType": "",
         "scale": "",
@@ -560,7 +560,7 @@ export const arData = [
     {
         "id": 44,
         "name": "Bakong",
-        "yearBuilt": "800 AD",
+        "yearBuilt": "800",
         "style": "Khmer",
         "buildingType": "",
         "scale": "",
@@ -573,7 +573,7 @@ export const arData = [
     {
         "id": 45,
         "name": "Prasat Prang Ku",
-        "yearBuilt": "1100 AD",
+        "yearBuilt": "1100",
         "style": "Khmer",
         "buildingType": "",
         "scale": "",
@@ -586,7 +586,7 @@ export const arData = [
     {
         "id": 46,
         "name": "Angkor Wat",
-        "yearBuilt": "1100 AD",
+        "yearBuilt": "1100",
         "style": "Khmer",
         "buildingType": "",
         "scale": "",
@@ -599,7 +599,7 @@ export const arData = [
     {
         "id": 47,
         "name": "Champa Temples",
-        "yearBuilt": "300 AD",
+        "yearBuilt": "300",
         "style": "Khmer",
         "buildingType": "",
         "scale": "",
@@ -690,7 +690,7 @@ export const arData = [
     {
         "id": 54,
         "name": "Hagia Irene",
-        "yearBuilt": "500 AD",
+        "yearBuilt": "500",
         "style": "Byzantine",
         "buildingType": "",
         "scale": "",
