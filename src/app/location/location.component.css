@@ -1,0 +1,13 @@
+ul {
+    list-style: none !important;
+}
+
+.alphabet-nav {
+    position: fixed;
+    bottom: 15vh;
+}
+
+.list-group-item {
+    padding: 0 !important;
+    margin: 0 !important;
+}
