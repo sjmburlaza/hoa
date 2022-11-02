@@ -4,7 +4,7 @@ export const arData = [
         "name": "Pyramid of Djoser",
         "yearBuilt": "2667–2648 BC",
         "style": "Ancient Egyptian",
-        "buildingType": "",
+        "buildingType": "Mausoleum",
         "scale": "",
         "location": "Saqqara, Egypt",
         "continent": "Africa",
@@ -403,7 +403,7 @@ export const arData = [
     },
     {
         "id": 32,
-        "name": "Padmanabhaswamy Temple",
+        "name": "Temple of Padmanabhaswamy",
         "yearBuilt": "300",
         "style": "Dravidian",
         "buildingType": "Religious",
@@ -412,7 +412,7 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Pad"
+        "codename":"Tpa"
     },
     {
         "id": 33,
@@ -520,7 +520,7 @@ export const arData = [
     },
     {
         "id": 41,
-        "name": "Pagoda at Hōryū-ji",
+        "name": "Hōryū-ji Pagoda",
         "yearBuilt": "607",
         "style": "Sinosphere",
         "buildingType": "Religious",
@@ -1014,7 +1014,7 @@ export const arData = [
     },
     {
         "id": 79,
-        "name": "Palazzo Farnese",
+        "name": "Farnese Palace",
         "yearBuilt": "1534-1546",
         "style": "Rennaisance",
         "buildingType": "Religious",

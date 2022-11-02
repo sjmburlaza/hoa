@@ -26,6 +26,7 @@ export function renderAlphsInUI(grouped: any): void {
             li.innerHTML = group['codename'];
             li.style.borderStyle = "solid";
             li.style.width = "2vw";
+            li.style.height = "2vw";
             li.style.marginTop = "5px";
             li.style.fontSize = "0.6vw";
             li.style.textAlign = "center";
