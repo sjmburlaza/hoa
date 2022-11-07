@@ -19,8 +19,8 @@ export class LocationComponent implements OnInit {
   }
 
   sortData(): void {
-    const arData = this.data.sort((a, b) => a.continent.localeCompare(b.continent));
-    const grouped = arData.reduce(function (r, a) {
+    const archData = this.data.sort((a, b) => a.continent.localeCompare(b.continent));
+    const grouped = archData.reduce(function (r, a) {
       let continent = a.continent;
       r[continent] = r[continent] || [];
       r[continent].push(a);
