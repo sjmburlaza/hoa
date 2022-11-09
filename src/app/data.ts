@@ -10,7 +10,8 @@ export const arData = [
         "continent": "Africa",
         "description": "",
         "image": "",
-        "codename":"POD"
+        "codename":"POD",
+        "color": ""
     },
     {
         "id": 2,
@@ -23,7 +24,8 @@ export const arData = [
         "continent": "Africa",
         "description": "",
         "image": "",
-        "codename":"GPG"
+        "codename":"GPG",
+        "color": ""
     },
     {
         "id": 3,
@@ -36,7 +38,8 @@ export const arData = [
         "continent": "Africa",
         "description": "",
         "image": "",
-        "codename":"HHK"
+        "codename":"HHK",
+        "color": ""
     },
     {
         "id": 4,
@@ -49,7 +52,8 @@ export const arData = [
         "continent": "Africa",
         "description": "",
         "image": "",
-        "codename":"GTA"
+        "codename":"GTA",
+        "color": ""
     },
     {
         "id": 5,
@@ -62,7 +66,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"TOH"
+        "codename":"TOH",
+        "color": ""
     },
     {
         "id": 6,
@@ -75,7 +80,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"TOS"
+        "codename":"TOS",
+        "color": ""
     },
     {
         "id": 7,
@@ -88,7 +94,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ERE"
+        "codename":"ERE",
+        "color": ""
     },
     {
         "id": 8,
@@ -101,7 +108,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PAR"
+        "codename":"PAR",
+        "color": ""
     },
     {
         "id": 9,
@@ -114,7 +122,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"TSP"
+        "codename":"TSP",
+        "color": ""
     },
     {
         "id": 10,
@@ -127,7 +136,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ATE"
+        "codename":"ATE",
+        "color": ""
     },
     {
         "id": 11,
@@ -140,7 +150,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"COL"
+        "codename":"COL",
+        "color": ""
     },
     {
         "id": 12,
@@ -153,7 +164,8 @@ export const arData = [
         "continent": "Europe",
         "description": "Roman aqueduct",
         "image": "",
-        "codename":"PDG"
+        "codename":"PDG",
+        "color": ""
     },
     {
         "id": 13,
@@ -166,7 +178,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"MCa"
+        "codename":"MCa",
+        "color": ""
     },
     {
         "id": 14,
@@ -179,7 +192,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PAN"
+        "codename":"PAN",
+        "color": ""
     },
     {
         "id": 15,
@@ -192,7 +206,7 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"LoC"
+        "codename":"LoC","color": ""
     },
     {
         "id": 16,
@@ -205,7 +219,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"AoC"
+        "codename":"AoC",
+        "color": ""
     },
     {
         "id": 17,
@@ -218,7 +233,8 @@ export const arData = [
         "continent": "South America",
         "description": "",
         "image": "",
-        "codename":"AoD"
+        "codename":"AoD",
+        "color": ""
     },
     {
         "id": 18,
@@ -231,7 +247,8 @@ export const arData = [
         "continent": "South America",
         "description": "",
         "image": "",
-        "codename":"PoP"
+        "codename":"PoP",
+        "color": ""
     },
     {
         "id": 19,
@@ -244,7 +261,8 @@ export const arData = [
         "continent": "South America",
         "description": "",
         "image": "",
-        "codename":"TGJ"
+        "codename":"TGJ",
+        "color": ""
     },
     {
         "id": 20,
@@ -257,7 +275,8 @@ export const arData = [
         "continent": "South America",
         "description": "",
         "image": "",
-        "codename":"NUQ"
+        "codename":"NUQ",
+        "color": ""
     },
     {
         "id": 21,
@@ -270,7 +289,8 @@ export const arData = [
         "continent": "South America",
         "description": "",
         "image": "",
-        "codename":"ToW"
+        "codename":"ToW",
+        "color": ""
     },
     {
         "id": 22,
@@ -283,7 +303,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"GSS"
+        "codename":"GSS",
+        "color": ""
     },
     {
         "id": 23,
@@ -296,7 +317,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"SoM"
+        "codename":"SoM",
+        "color": ""
     },
     {
         "id": 24,
@@ -309,7 +331,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"AJC"
+        "codename":"AJC",
+        "color": ""
     },{
         "id": 25,
         "name": "Hawa Mahal",
@@ -321,7 +344,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"HaM"
+        "codename":"HaM",
+        "color": ""
     },
     {
         "id": 26,
@@ -334,7 +358,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"NaT"
+        "codename":"NaT",
+        "color": ""
     },
     {
         "id": 27,
@@ -347,7 +372,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"JVV"
+        "codename":"JVV",
+        "color": ""
     },
     {
         "id": 28,
@@ -360,7 +386,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"NyT"
+        "codename":"NyT",
+        "color": ""
     },
     {
         "id": 29,
@@ -373,7 +400,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"PaT"
+        "codename":"PaT",
+        "color": ""
     },
     {
         "id": 30,
@@ -386,7 +414,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Pot"
+        "codename":"Pot",
+        "color": ""
     },
     {
         "id": 31,
@@ -399,7 +428,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"JaM"
+        "codename":"JaM",
+        "color": ""
     },
     {
         "id": 32,
@@ -412,7 +442,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Pad"
+        "codename":"Pad",
+        "color": ""
     },
     {
         "id": 33,
@@ -425,7 +456,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Mee"
+        "codename":"Mee",
+        "color": ""
     },
     {
         "id": 34,
@@ -438,7 +470,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Vit"
+        "codename":"Vit",
+        "color": ""
     },
     {
         "id": 35,
@@ -451,7 +484,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"GWG"
+        "codename":"GWG",
+        "color": ""
     },
     {
         "id": 36,
@@ -464,7 +498,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"GPD"
+        "codename":"GPD",
+        "color": ""
     },
     {
         "id": 37,
@@ -477,7 +512,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"HPG"
+        "codename":"HPG",
+        "color": ""
     },
     {
         "id": 38,
@@ -490,7 +526,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"ToL"
+        "codename":"ToL",
+        "color": ""
     },
     {
         "id": 39,
@@ -503,7 +540,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"GyP"
+        "codename":"GyP",
+        "color": ""
     },
     {
         "id": 40,
@@ -516,7 +554,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"MEN"
+        "codename":"MEN",
+        "color": ""
     },
     {
         "id": 41,
@@ -529,7 +568,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"PaH"
+        "codename":"PaH",
+        "color": ""
     },
     {
         "id": 42,
@@ -542,7 +582,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"GNT"
+        "codename":"GNT",
+        "color": ""
     },
     {
         "id": 43,
@@ -555,7 +596,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Kin"
+        "codename":"Kin",
+        "color": ""
     },
     {
         "id": 44,
@@ -568,7 +610,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Bak"
+        "codename":"Bak",
+        "color": ""
     },
     {
         "id": 45,
@@ -581,7 +624,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"PPK"
+        "codename":"PPK",
+        "color": ""
     },
     {
         "id": 46,
@@ -594,7 +638,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"AnW"
+        "codename":"AnW",
+        "color": ""
     },
     {
         "id": 47,
@@ -607,7 +652,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Cha"
+        "codename":"Cha",
+        "color": ""
     },
     {
         "id": 48,
@@ -620,7 +666,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"DoR"
+        "codename":"DoR",
+        "color": ""
     },
     {
         "id": 49,
@@ -633,7 +680,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"GMS"
+        "codename":"GMS",
+        "color": ""
     },
     {
         "id": 50,
@@ -646,7 +694,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"TSR"
+        "codename":"TSR",
+        "color": ""
     },
     {
         "id": 51,
@@ -659,7 +708,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CoL"
+        "codename":"CoL",
+        "color": ""
     },
     {
         "id": 52,
@@ -672,7 +722,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Taj"
+        "codename":"Taj",
+        "color": ""
     },
     {
         "id": 53,
@@ -685,7 +736,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BSS"
+        "codename":"BSS",
+        "color": ""
     },
     {
         "id": 54,
@@ -698,7 +750,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"HaI"
+        "codename":"HaI",
+        "color": ""
     },
     {
         "id":55 ,
@@ -711,7 +764,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BSV"
+        "codename":"BSV",
+        "color": ""
     },
     {
         "id":56 ,
@@ -724,7 +778,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BSC"
+        "codename":"BSC",
+        "color": ""
     },
     {
         "id": 57,
@@ -737,7 +792,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Kap"
+        "codename":"Kap",
+        "color": ""
     },
     {
         "id": 58,
@@ -750,7 +806,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"THS"
+        "codename":"THS",
+        "color": ""
     },
     {
         "id": 59,
@@ -763,7 +820,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SMC"
+        "codename":"SMC",
+        "color": ""
     },
     {
         "id": 60,
@@ -776,7 +834,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ASD"
+        "codename":"ASD",
+        "color": ""
     },
     {
         "id": 61,
@@ -789,7 +848,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ACS"
+        "codename":"ACS",
+        "color": ""
     },
     {
         "id": 62,
@@ -802,7 +862,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"DuC"
+        "codename":"DuC",
+        "color": ""
     },
     {
         "id": 63,
@@ -815,7 +876,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"MLA"
+        "codename":"MLA",
+        "color": ""
     },
     {
         "id": 64,
@@ -828,7 +890,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Mun"
+        "codename":"Mun",
+        "color": ""
     },
     {
         "id": 65,
@@ -841,7 +904,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"NDC"
+        "codename":"NDC",
+        "color": ""
     },
     {
         "id": 66,
@@ -854,7 +918,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CaC"
+        "codename":"CaC",
+        "color": ""
     },
     {
         "id": 67,
@@ -867,7 +932,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ChC"
+        "codename":"ChC",
+        "color": ""
     },
     {
         "id": 68,
@@ -880,7 +946,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Tow"
+        "codename":"Tow",
+        "color": ""
     },
     {
         "id": 69,
@@ -893,7 +960,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"HDS"
+        "codename":"HDS",
+        "color": ""
     },
     {
         "id": 70,
@@ -906,7 +974,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"Kon"
+        "codename":"Kon",
+        "color": ""
     },
     {
         "id": 71,
@@ -919,7 +988,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Rid"
+        "codename":"Rid",
+        "color": ""
     },
     {
         "id": 72,
@@ -932,7 +1002,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Sai"
+        "codename":"Sai",
+        "color": ""
     },
     {
         "id": 73,
@@ -945,7 +1016,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"FlC"
+        "codename":"FlC","color": ""
     },
     {
         "id": 74,
@@ -958,7 +1029,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BSA"
+        "codename":"BSA","color": ""
     },
     {
         "id": 75,
@@ -971,7 +1042,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Tem"
+        "codename":"Tem","color": ""
     },
     {
         "id": 76,
@@ -984,7 +1055,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ViM"
+        "codename":"ViM","color": ""
     },
     {
         "id": 77,
@@ -997,7 +1068,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CAR"
+        "codename":"CAR","color": ""
     },
     {
         "id": 78,
@@ -1010,7 +1081,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CdC"
+        "codename":"CdC","color": ""
     },
     {
         "id": 79,
@@ -1023,7 +1094,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PaR"
+        "codename":"PaR","color": ""
     },
     {
         "id": 80,
@@ -1036,7 +1107,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"TdM"
+        "codename":"TdM","color": ""
     },
     {
         "id": 81,
@@ -1049,7 +1120,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SCQ"
+        "codename":"SCQ","color": ""
     },
     {
         "id": 82,
@@ -1062,7 +1133,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SPQ"
+        "codename":"SPQ","color": ""
     },
     {
         "id": 83,
@@ -1075,7 +1146,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"GVV"
+        "codename":"GVV","color": ""
     },
     {
         "id": 84,
@@ -1088,7 +1159,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"DdI"
+        "codename":"DdI","color": ""
     },
     {
         "id": 85,
@@ -1101,7 +1172,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"RVH"
+        "codename":"RVH","color": ""
     },
     {
         "id": 86,
@@ -1114,7 +1185,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CSN"
+        "codename":"CSN","color": ""
     },
     {
         "id": 87,
@@ -1127,7 +1198,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Kar"
+        "codename":"Kar","color": ""
     },
     {
         "id": 88,
@@ -1140,7 +1211,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"RPA"
+        "codename":"RPA","color": ""
     },
     {
         "id": 89,
@@ -1153,7 +1224,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Zwi"
+        "codename":"Zwi","color": ""
     },
     {
         "id": 90,
@@ -1166,7 +1237,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CSG"
+        "codename":"CSG","color": ""
     },
     {
         "id": 91,
@@ -1179,7 +1250,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"DHC"
+        "codename":"DHC","color": ""
     },
     {
         "id": 92,
@@ -1192,7 +1263,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Qup"
+        "codename":"Qup","color": ""
     },
     {
         "id": 93,
@@ -1205,7 +1276,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PCW"
+        "codename":"PCW","color": ""
     },
     {
         "id": 94,
@@ -1218,7 +1289,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ELG"
+        "codename":"ELG","color": ""
     },
     {
         "id": 95,
@@ -1231,7 +1302,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PaP"
+        "codename":"PaP","color": ""
     },
     {
         "id": 96,
@@ -1244,7 +1315,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"HdM"
+        "codename":"HdM","color": ""
     },
     {
         "id": 97,
@@ -1257,7 +1328,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SGT"
+        "codename":"SGT","color": ""
     },
     {
         "id": 98,
@@ -1270,7 +1341,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ViW"
+        "codename":"ViW","color": ""
     },
     {
         "id": 99,
@@ -1283,7 +1354,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"NeW"
+        "codename":"NeW","color": ""
     },
     {
         "id": 100,
@@ -1296,7 +1367,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BuM"
+        "codename":"BuM","color": ""
     },
     {
         "id": 101,
@@ -1309,7 +1380,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PeT"
+        "codename":"PeT","color": ""
     },
     {
         "id": 102,
@@ -1322,7 +1393,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"EPG"
+        "codename":"EPG","color": ""
     },
     {
         "id": 103,
@@ -1335,7 +1406,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"GSP"
+        "codename":"GSP","color": ""
     },
     {
         "id": 104,
@@ -1348,7 +1419,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CEC"
+        "codename":"CEC","color": ""
     },
     {
         "id": 105,
@@ -1361,7 +1432,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CaP"
+        "codename":"CaP","color": ""
     },
     {
         "id": 106,
@@ -1374,7 +1445,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PeP"
+        "codename":"PeP","color": ""
     },
     {
         "id": 107,
@@ -1387,7 +1458,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"GCT"
+        "codename":"GCT","color": ""
     },
     {
         "id": 108,
@@ -1400,7 +1471,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BAV"
+        "codename":"BAV","color": ""
     },
     {
         "id": 109,
@@ -1413,7 +1484,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"HoT"
+        "codename":"HoT","color": ""
     },
     {
         "id": 110,
@@ -1426,7 +1497,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SeB"
+        "codename":"SeB","color": ""
     },
     {
         "id": 111,
@@ -1439,7 +1510,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"LFM"
+        "codename":"LFM","color": ""
     },
     {
         "id": 112,
@@ -1452,7 +1523,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"LVH"
+        "codename":"LVH","color": ""
     },
     {
         "id": 113,
@@ -1465,7 +1536,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BiF"
+        "codename":"BiF","color": ""
     },
     {
         "id": 114,
@@ -1478,7 +1549,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PDM"
+        "codename":"PDM","color": ""
     },
     {
         "id": 115,
@@ -1491,7 +1562,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"MaH"
+        "codename":"MaH","color": ""
     },
     {
         "id": 116,
@@ -1504,7 +1575,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CaB"
+        "codename":"CaB","color": ""
     },
     {
         "id": 117,
@@ -1517,7 +1588,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"MCH"
+        "codename":"MCH","color": ""
     },
     {
         "id": 118,
@@ -1530,7 +1601,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"LCB"
+        "codename":"LCB","color": ""
     },
     {
         "id": 119,
@@ -1543,7 +1614,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BaP"
+        "codename":"BaP","color": ""
     },
     {
         "id": 120,
@@ -1556,7 +1627,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ViS"
+        "codename":"ViS","color": ""
     },
     {
         "id": 121,
@@ -1569,7 +1640,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"LeH"
+        "codename":"LeH","color": ""
     },
     {
         "id": 122,
@@ -1582,7 +1653,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"SBu"
+        "codename":"SBu","color": ""
     },
     {
         "id": 123,
@@ -1595,7 +1666,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"UCC"
+        "codename":"UCC","color": ""
     },
     {
         "id": 124,
@@ -1608,7 +1679,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"RuH"
+        "codename":"RuH","color": ""
     },
     {
         "id": 125,
@@ -1621,7 +1692,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"H67"
+        "codename":"H67","color": ""
     },
     {
         "id": 126,
@@ -1634,7 +1705,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"GeL"
+        "codename":"GeL","color": ""
     },
     {
         "id": 127,
@@ -1647,7 +1718,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"RoL"
+        "codename":"RoL","color": ""
     },
     {
         "id": 128,
@@ -1660,7 +1731,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"FPF"
+        "codename":"FPF","color": ""
     },
     {
         "id": 129,
@@ -1673,7 +1744,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"PdI"
+        "codename":"PdI","color": ""
     },
     {
         "id": 130,
@@ -1686,7 +1757,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"NeS"
+        "codename":"NeS","color": ""
     },
     {
         "id": 131,
@@ -1699,7 +1770,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"ATT"
+        "codename":"ATT","color": ""
     },
     {
         "id": 132,
@@ -1712,7 +1783,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"TDB"
+        "codename":"TDB","color": ""
     },
     {
         "id": 133,
@@ -1725,7 +1796,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Bun"
+        "codename":"Bun","color": ""
     },
     {
         "id": 134,
@@ -1738,7 +1809,7 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"WCA"
+        "codename":"WCA","color": ""
     },
     {
         "id": 135,
@@ -1751,7 +1822,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"VFS"
+        "codename":"VFS","color": ""
     },
     {
         "id": 136,
@@ -1764,7 +1835,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"JeM"
+        "codename":"JeM","color": ""
     },
     {
         "id": 137,
@@ -1777,7 +1848,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"GuM"
+        "codename":"GuM","color": ""
     },
     {
         "id": 138,
