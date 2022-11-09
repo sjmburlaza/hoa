@@ -11,7 +11,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"POD",
-        "color": ""
+        "color": "#566D7E"
     },
     {
         "id": 2,
@@ -25,7 +25,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"GPG",
-        "color": ""
+        "color": "#737CA1"
     },
     {
         "id": 3,
@@ -39,7 +39,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"HHK",
-        "color": ""
+        "color": "#728FCE"
     },
     {
         "id": 4,
@@ -53,7 +53,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"GTA",
-        "color": ""
+        "color": "#4863A0"
     },
     {
         "id": 5,
@@ -67,7 +67,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"TOH",
-        "color": ""
+        "color": "#2B547E"
     },
     {
         "id": 6,
@@ -81,7 +81,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"TOS",
-        "color": ""
+        "color": "#36454F"
     },
     {
         "id": 7,
@@ -95,7 +95,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"ERE",
-        "color": ""
+        "color": "#29465B"
     },
     {
         "id": 8,
@@ -109,7 +109,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"PAR",
-        "color": ""
+        "color": "#2B3856"
     },
     {
         "id": 9,
@@ -123,7 +123,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"TSP",
-        "color": ""
+        "color": "#123456"
     },
     {
         "id": 10,
@@ -137,7 +137,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"ATE",
-        "color": ""
+        "color": "#151B54"
     },
     {
         "id": 11,
@@ -151,7 +151,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"COL",
-        "color": ""
+        "color": "#191970"
     },
     {
         "id": 12,
@@ -165,7 +165,7 @@ export const arData = [
         "description": "Roman aqueduct",
         "image": "",
         "codename":"PDG",
-        "color": ""
+        "color": "#000080"
     },
     {
         "id": 13,
@@ -179,7 +179,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"MCa",
-        "color": ""
+        "color": "#9AFEFF"
     },
     {
         "id": 14,
@@ -193,7 +193,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"PAN",
-        "color": ""
+        "color": "#57FEFF"
     },
     {
         "id": 15,
@@ -206,7 +206,8 @@ export const arData = [
         "continent": "Asia",
         "description": "",
         "image": "",
-        "codename":"LoC","color": ""
+        "codename":"LoC",
+        "color": "#8EEBEC"
     },
     {
         "id": 16,
@@ -220,7 +221,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"AoC",
-        "color": ""
+        "color": "#81D8D0"
     },
     {
         "id": 17,
@@ -234,7 +235,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"AoD",
-        "color": ""
+        "color": "#2E8B57"
     },
     {
         "id": 18,
@@ -248,7 +249,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"PoP",
-        "color": ""
+        "color": "#50C878"
     },
     {
         "id": 19,
@@ -262,7 +263,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"TGJ",
-        "color": ""
+        "color": "#78866B"
     },
     {
         "id": 20,
@@ -276,7 +277,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"NUQ",
-        "color": ""
+        "color": "#848B79"
     },
     {
         "id": 21,
@@ -290,7 +291,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"ToW",
-        "color": ""
+        "color": "#728C00"
     },
     {
         "id": 22,
@@ -304,7 +305,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"GSS",
-        "color": ""
+        "color": "#6B8E23"
     },
     {
         "id": 23,
@@ -318,7 +319,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"SoM",
-        "color": ""
+        "color": "#556B2F"
     },
     {
         "id": 24,
@@ -332,7 +333,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"AJC",
-        "color": ""
+        "color": "#4B5320"
     },{
         "id": 25,
         "name": "Hawa Mahal",
@@ -345,7 +346,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"HaM",
-        "color": ""
+        "color": "#4E9258"
     },
     {
         "id": 26,
@@ -359,7 +360,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"NaT",
-        "color": ""
+        "color": "#347235"
     },
     {
         "id": 27,
@@ -373,7 +374,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"JVV",
-        "color": ""
+        "color": "#228B22"
     },
     {
         "id": 28,
@@ -387,7 +388,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"NyT",
-        "color": ""
+        "color": "#006400"
     },
     {
         "id": 29,
@@ -401,7 +402,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"PaT",
-        "color": ""
+        "color": "#6AA121"
     },
     {
         "id": 30,
@@ -415,7 +416,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Pot",
-        "color": ""
+        "color": "#3EA055"
     },
     {
         "id": 31,
@@ -429,7 +430,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"JaM",
-        "color": ""
+        "color": "#4CC417"
     },
     {
         "id": 32,
@@ -443,7 +444,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Pad",
-        "color": ""
+        "color": "#EDE275"
     },
     {
         "id": 33,
@@ -457,7 +458,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Mee",
-        "color": ""
+        "color": "#FAF884"
     },
     {
         "id": 34,
@@ -471,7 +472,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Vit",
-        "color": ""
+        "color": "#FFFF00"
     },
     {
         "id": 35,
@@ -485,7 +486,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"GWG",
-        "color": ""
+        "color": "#F5E216"
     },
     {
         "id": 36,
@@ -499,7 +500,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"GPD",
-        "color": ""
+        "color": "#FFDB58"
     },
     {
         "id": 37,
@@ -513,7 +514,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"HPG",
-        "color": ""
+        "color": "#FDD017"
     },
     {
         "id": 38,
@@ -527,7 +528,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"ToL",
-        "color": ""
+        "color": "#F2BB66"
     },
     {
         "id": 39,
@@ -541,7 +542,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"GyP",
-        "color": ""
+        "color": "#FBB117"
     },
     {
         "id": 40,
@@ -555,7 +556,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"MEN",
-        "color": ""
+        "color": "#FFA62F"
     },
     {
         "id": 41,
@@ -569,7 +570,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"PaH",
-        "color": ""
+        "color": "#EE9A4D"
     },
     {
         "id": 42,
@@ -583,7 +584,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"GNT",
-        "color": ""
+        "color": "#E2A76F"
     },
     {
         "id": 43,
@@ -597,7 +598,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Kin",
-        "color": ""
+        "color": "#C19A6B"
     },
     {
         "id": 44,
@@ -611,7 +612,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Bak",
-        "color": ""
+        "color": "#E6BF83"
     },
     {
         "id": 45,
@@ -625,7 +626,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"PPK",
-        "color": ""
+        "color": "#C8B560"
     },
     {
         "id": 46,
@@ -639,7 +640,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"AnW",
-        "color": ""
+        "color": "#C7A317"
     },
     {
         "id": 47,
@@ -653,7 +654,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Cha",
-        "color": ""
+        "color": "#B8860B"
     },
     {
         "id": 48,
@@ -667,7 +668,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"DoR",
-        "color": ""
+        "color": "#CD7F32"
     },
     {
         "id": 49,
@@ -681,7 +682,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"GMS",
-        "color": ""
+        "color": "#AA6C39"
     },
     {
         "id": 50,
@@ -695,7 +696,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"TSR",
-        "color": ""
+        "color": "#AB784E"
     },
     {
         "id": 51,
@@ -709,7 +710,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"CoL",
-        "color": ""
+        "color": "#806517"
     },
     {
         "id": 52,
@@ -723,7 +724,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Taj",
-        "color": ""
+        "color": "#665D1E"
     },
     {
         "id": 53,
@@ -737,7 +738,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"BSS",
-        "color": ""
+        "color": "#8E7618"
     },
     {
         "id": 54,
@@ -751,7 +752,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"HaI",
-        "color": ""
+        "color": "#8B8000"
     },
     {
         "id":55 ,
@@ -765,7 +766,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"BSV",
-        "color": ""
+        "color": "#827839"
     },
     {
         "id":56 ,
@@ -779,7 +780,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"BSC",
-        "color": ""
+        "color": "#8A865D"
     },
     {
         "id": 57,
@@ -793,7 +794,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Kap",
-        "color": ""
+        "color": "#93917C"
     },
     {
         "id": 58,
@@ -807,7 +808,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"THS",
-        "color": ""
+        "color": "#AF9B60"
     },
     {
         "id": 59,
@@ -821,7 +822,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"SMC",
-        "color": ""
+        "color": "#827B60"
     },
     {
         "id": 60,
@@ -835,7 +836,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"ASD",
-        "color": ""
+        "color": "#786D5F"
     },
     {
         "id": 61,
@@ -849,7 +850,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"ACS",
-        "color": ""
+        "color": "#483C32"
     },
     {
         "id": 62,
@@ -863,7 +864,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"DuC",
-        "color": ""
+        "color": "#513B1C"
     },
     {
         "id": 63,
@@ -877,7 +878,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"MLA",
-        "color": ""
+        "color": "#3D3635"
     },
     {
         "id": 64,
@@ -891,7 +892,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Mun",
-        "color": ""
+        "color": "#43302E"
     },
     {
         "id": 65,
@@ -905,7 +906,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"NDC",
-        "color": ""
+        "color": "#5C3317"
     },
     {
         "id": 66,
@@ -919,7 +920,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"CaC",
-        "color": ""
+        "color": "#704214"
     },
     {
         "id": 67,
@@ -933,7 +934,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"ChC",
-        "color": ""
+        "color": "#A0522D"
     },
     {
         "id": 68,
@@ -947,7 +948,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Tow",
-        "color": ""
+        "color": "#954535"
     },
     {
         "id": 69,
@@ -961,7 +962,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"HDS",
-        "color": ""
+        "color": "#C04000"
     },
     {
         "id": 70,
@@ -975,7 +976,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Kon",
-        "color": ""
+        "color": "#EB5406"
     },
     {
         "id": 71,
@@ -989,7 +990,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Rid",
-        "color": ""
+        "color": "#C35817"
     },
     {
         "id": 72,
@@ -1003,7 +1004,7 @@ export const arData = [
         "description": "",
         "image": "",
         "codename":"Sai",
-        "color": ""
+        "color": "#B86500"
     },
     {
         "id": 73,
@@ -1016,7 +1017,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"FlC","color": ""
+        "codename":"FlC",
+        "color": "#B5651D"
     },
     {
         "id": 74,
@@ -1029,7 +1031,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BSA","color": ""
+        "codename":"BSA",
+        "color": "#B76734"
     },
     {
         "id": 75,
@@ -1042,7 +1045,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Tem","color": ""
+        "codename":"Tem",
+        "color": "#C36241"
     },
     {
         "id": 76,
@@ -1055,7 +1059,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ViM","color": ""
+        "codename":"ViM",
+        "color": "#FF6700"
     },
     {
         "id": 77,
@@ -1068,7 +1073,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CAR","color": ""
+        "codename":"CAR",
+        "color": "#FF5F1F"
     },
     {
         "id": 78,
@@ -1081,7 +1087,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CdC","color": ""
+        "codename":"CdC",
+        "color": "#F88017"
     },
     {
         "id": 79,
@@ -1094,7 +1101,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PaR","color": ""
+        "codename":"PaR",
+        "color": "#F87431"
     },
     {
         "id": 80,
@@ -1107,7 +1115,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"TdM","color": ""
+        "codename":"TdM",
+        "color": "#FF7722"
     },
     {
         "id": 81,
@@ -1120,7 +1129,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SCQ","color": ""
+        "codename":"SCQ",
+        "color": "#E67451"
     },
     {
         "id": 82,
@@ -1133,7 +1143,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SPQ","color": ""
+        "codename":"SPQ",
+        "color": "#FFA07A"
     },
     {
         "id": 83,
@@ -1146,7 +1157,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"GVV","color": ""
+        "codename":"GVV",
+        "color": "#DA8A67"
     },
     {
         "id": 84,
@@ -1159,7 +1171,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"DdI","color": ""
+        "codename":"DdI",
+        "color": "#FF8674"
     },
     {
         "id": 85,
@@ -1172,7 +1185,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"RVH","color": ""
+        "codename":"RVH",
+        "color": "#F08080"
     },
     {
         "id": 86,
@@ -1185,7 +1199,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CSN","color": ""
+        "codename":"CSN",
+        "color": "#F67280"
     },
     {
         "id": 87,
@@ -1198,7 +1213,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Kar","color": ""
+        "codename":"Kar",
+        "color": "#F75D59"
     },
     {
         "id": 88,
@@ -1211,7 +1227,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"RPA","color": ""
+        "codename":"RPA",
+        "color": "#CD5C5C"
     },
     {
         "id": 89,
@@ -1224,7 +1241,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Zwi","color": ""
+        "codename":"Zwi",
+        "color": "#FF4500"
     },
     {
         "id": 90,
@@ -1237,7 +1255,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CSG","color": ""
+        "codename":"CSG",
+        "color": "#FD1C03"
     },
     {
         "id": 91,
@@ -1250,7 +1269,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"DHC","color": ""
+        "codename":"DHC",
+        "color": "#F70D1A"
     },
     {
         "id": 92,
@@ -1263,7 +1283,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Qup","color": ""
+        "codename":"Qup",
+        "color": "#C24641"
     },
     {
         "id": 93,
@@ -1276,7 +1297,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PCW","color": ""
+        "codename":"PCW",
+        "color": "#B21807"
     },
     {
         "id": 94,
@@ -1289,7 +1311,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ELG","color": ""
+        "codename":"ELG",
+        "color": "#A70D2A"
     },
     {
         "id": 95,
@@ -1302,7 +1325,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PaP","color": ""
+        "codename":"PaP",
+        "color": "#990000"
     },
     {
         "id": 96,
@@ -1315,7 +1339,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"HdM","color": ""
+        "codename":"HdM",
+        "color": "#8C001A"
     },
     {
         "id": 97,
@@ -1328,7 +1353,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SGT","color": ""
+        "codename":"SGT",
+        "color": "#560319"
     },
     {
         "id": 98,
@@ -1341,7 +1367,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ViW","color": ""
+        "codename":"ViW",
+        "color": "#3D0C02"
     },
     {
         "id": 99,
@@ -1354,7 +1381,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"NeW","color": ""
+        "codename":"NeW",
+        "color": "#550A35"
     },
     {
         "id": 100,
@@ -1367,7 +1395,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BuM","color": ""
+        "codename":"BuM",
+        "color": "#7D0552"
     },
     {
         "id": 101,
@@ -1380,7 +1409,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PeT","color": ""
+        "codename":"PeT",
+        "color": "#872657"
     },
     {
         "id": 102,
@@ -1393,7 +1423,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"EPG","color": ""
+        "codename":"EPG",
+        "color": "#7F4E52"
     },
     {
         "id": 103,
@@ -1406,7 +1437,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"GSP","color": ""
+        "codename":"GSP",
+        "color": "#7F5A58"
     },
     {
         "id": 104,
@@ -1419,7 +1451,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CEC","color": ""
+        "codename":"CEC",
+        "color": "#B1907F"
     },
     {
         "id": 105,
@@ -1432,7 +1465,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CaP","color": ""
+        "codename":"CaP",
+        "color": "#B38481"
     },
     {
         "id": 106,
@@ -1445,7 +1479,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PeP","color": ""
+        "codename":"PeP",
+        "color": "#E799A3"
     },
     {
         "id": 107,
@@ -1458,7 +1493,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"GCT","color": ""
+        "codename":"GCT",
+        "color": "#D58A94"
     },
     {
         "id": 108,
@@ -1471,7 +1507,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BAV","color": ""
+        "codename":"BAV",
+        "color": "#ECC5C0"
     },
     {
         "id": 109,
@@ -1484,7 +1521,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"HoT","color": ""
+        "codename":"HoT",
+        "color": "#FFCBA4"
     },
     {
         "id": 110,
@@ -1497,7 +1535,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"SeB","color": ""
+        "codename":"SeB",
+        "color": "#F8B88B"
     },
     {
         "id": 111,
@@ -1510,7 +1549,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"LFM","color": ""
+        "codename":"LFM",
+        "color": "#FFDDCA"
     },
     {
         "id": 112,
@@ -1523,7 +1563,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"LVH","color": ""
+        "codename":"LVH",
+        "color": "#FBBBB9"
     },
     {
         "id": 113,
@@ -1536,7 +1577,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BiF","color": ""
+        "codename":"BiF",
+        "color": "#FFC0CB"
     },
     {
         "id": 114,
@@ -1549,7 +1591,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PDM","color": ""
+        "codename":"PDM",
+        "color": "#FEA3AA"
     },
     {
         "id": 115,
@@ -1562,7 +1605,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"MaH","color": ""
+        "codename":"MaH",
+        "color": "#E7A1B0"
     },
     {
         "id": 116,
@@ -1575,7 +1619,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"CaB","color": ""
+        "codename":"CaB",
+        "color": "#F778A1"
     },
     {
         "id": 117,
@@ -1588,7 +1633,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"MCH","color": ""
+        "codename":"MCH",
+        "color": "#C25A7C"
     },
     {
         "id": 118,
@@ -1601,7 +1647,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"LCB","color": ""
+        "codename":"LCB",
+        "color": "#C25283"
     },
     {
         "id": 119,
@@ -1614,7 +1661,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"BaP","color": ""
+        "codename":"BaP",
+        "color": "#FF69B4"
     },
     {
         "id": 120,
@@ -1627,7 +1675,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"ViS","color": ""
+        "codename":"ViS",
+        "color": "#FC6C85"
     },
     {
         "id": 121,
@@ -1640,7 +1689,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"LeH","color": ""
+        "codename":"LeH",
+        "color": "#FF007F"
     },
     {
         "id": 122,
@@ -1653,7 +1703,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"SBu","color": ""
+        "codename":"SBu",
+        "color": "#E759AC"
     },
     {
         "id": 123,
@@ -1666,7 +1717,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"UCC","color": ""
+        "codename":"UCC",
+        "color": "#DA70D6"
     },
     {
         "id": 124,
@@ -1679,7 +1731,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"RuH","color": ""
+        "codename":"RuH",
+        "color": "#FF77FF"
     },
     {
         "id": 125,
@@ -1692,7 +1745,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"H67","color": ""
+        "codename":"H67",
+        "color": "#C45AEC"
     },
     {
         "id": 126,
@@ -1705,7 +1759,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"GeL","color": ""
+        "codename":"GeL",
+        "color": "#A74AC7"
     },
     {
         "id": 127,
@@ -1718,7 +1773,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"RoL","color": ""
+        "codename":"RoL",
+        "color": "#D291BC"
     },
     {
         "id": 128,
@@ -1731,7 +1787,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"FPF","color": ""
+        "codename":"FPF",
+        "color": "#915F6D"
     },
     {
         "id": 129,
@@ -1744,7 +1801,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"PdI","color": ""
+        "codename":"PdI",
+        "color": "#7E587E"
     },
     {
         "id": 130,
@@ -1757,7 +1815,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"NeS","color": ""
+        "codename":"NeS",
+        "color": "#614051"
     },
     {
         "id": 131,
@@ -1770,7 +1829,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"ATT","color": ""
+        "codename":"ATT",
+        "color": "#583759"
     },
     {
         "id": 132,
@@ -1783,7 +1843,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"TDB","color": ""
+        "codename":"TDB",
+        "color": "#5E5A80"
     },
     {
         "id": 133,
@@ -1796,7 +1857,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"Bun","color": ""
+        "codename":"Bun",
+        "color": "#CCCCFF"
     },
     {
         "id": 134,
@@ -1809,7 +1871,8 @@ export const arData = [
         "continent": "North America",
         "description": "",
         "image": "",
-        "codename":"WCA","color": ""
+        "codename":"WCA",
+        "color": "#6A5ACD"
     },
     {
         "id": 135,
@@ -1822,7 +1885,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"VFS","color": ""
+        "codename":"VFS",
+        "color": "#736AFF"
     },
     {
         "id": 136,
@@ -1835,7 +1899,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"JeM","color": ""
+        "codename":"JeM",
+        "color": "#6F2DA8"
     },
     {
         "id": 137,
@@ -1848,7 +1913,8 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"GuM","color": ""
+        "codename":"GuM",
+        "color": "#6C2DC7"
     },
     {
         "id": 138,
@@ -1861,6 +1927,7 @@ export const arData = [
         "continent": "Europe",
         "description": "",
         "image": "",
-        "codename":"PSC"
+        "codename":"PSC",
+        "color": "#4B0150"
     }
 ]
