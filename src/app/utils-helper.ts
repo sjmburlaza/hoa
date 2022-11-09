@@ -31,6 +31,7 @@ export function renderAlphsInUI(grouped: any): void {
             li.style.marginTop = "5px";
             li.style.fontSize = "0.6vw";
             li.style.textAlign = "center";
+            li.style.backgroundColor = group['color'];
             ul.append(li);
         }
         li.append(ul);
@@ -79,6 +80,7 @@ export function renderGroupsInUI(grouped: any): void {
             li.style.marginTop = "5px";
             li.style.fontSize = "0.6vw";
             li.style.textAlign = "center";
+            li.style.backgroundColor = group['color'];
             ul.append(li);
         }
         li.append(ul);
