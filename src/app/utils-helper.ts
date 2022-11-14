@@ -51,7 +51,11 @@ export function renderGroupsInUI(grouped: any): void {
     for (let key in grouped) {
         let li = document.createElement("li");
         li.classList.add('list-group-item');
+        // li.classList.add(key);
         li.style.width = "4.3vw";
+        if (key === 'Africa' || key === 'North America' || key === 'South America') {
+            li.style.margin = "0 2vw";
+        }
 
         const outerUl = document.getElementById("outerUl");
         
@@ -66,6 +70,10 @@ export function renderGroupsInUI(grouped: any): void {
             li.style.width = "4.3vw";
             li.style.textAlign = "center";
             li.style.fontSize = "0.8vw";
+            if (key === 'Africa' || key === 'North America' || key === 'South America') {
+                // li.style.margin = "0 2vw";
+                li.style.width = "8.3vw";
+            }
             groupTitleUl.appendChild(li);
         }
 

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { arData } from '../data';
 import { ArchDataModel } from '../models';
-import { renderAlphsInUI } from '../utils-helper';
+import { renderAlphsInUI, renderGroupsInUI } from '../utils-helper';
 
 @Component({
   selector: 'app-location',
@@ -53,7 +53,7 @@ export class LocationComponent implements OnInit {
     console.log(arrGroup)
     const objGroup = Object.fromEntries(arrGroup);
 
-    renderAlphsInUI(objGroup);
+    renderGroupsInUI(objGroup);
   }
 
 }
