@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { arData } from '../data';
 import { ArchDataModel } from '../models';
-import { renderAlphsInUI } from '../utils-helper';
+import { renderSingleGroupsInUI } from '../utils-helper';
 
 @Component({
   selector: 'app-style',
@@ -32,7 +32,7 @@ export class StyleComponent implements OnInit {
       return r;
     }, Object.create(null));
 
-    renderAlphsInUI(grouped);
+    renderSingleGroupsInUI(grouped);
   }
 
   

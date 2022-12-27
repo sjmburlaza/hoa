@@ -1,4 +1,4 @@
-export function renderAlphsInUI(grouped: any): void {
+export function renderSingleGroupsInUI(grouped: any): void {
     for (let key in grouped) {
         let li = document.createElement("li");
         li.classList.add('list-group-item');
@@ -38,23 +38,24 @@ export function renderAlphsInUI(grouped: any): void {
         ul.style.listStyle = "none";
         ul.style.margin = "0";
         ul.style.padding = "0";
-        // ul.style.height = "80vh"
         ul.style.display = "flex";
         ul.style.flexWrap = "wrap";
-        ul.style.flexDirection = "row"
-        li.style.borderColor = "red";
-
+        ul.style.flexDirection = "row";
+        li.style.border = "none";
     }
 }
 
-export function renderGroupsInUI(grouped: any): void {
+export function renderMultiGroupsInUI(grouped: any): void {
+    console.log(grouped)
+    const uniqueLabel = ['Africa', 'Asia', 'Europe', 'North America', 'South America',
+    'Accessory', 'Cultural', 'Institutional', 'Memorial', 'Mixed-use', 'Public Space',
+    'Religious', 'Residential', 'Utility'];
     for (let key in grouped) {
         let li = document.createElement("li");
         li.classList.add('list-group-item');
-        // li.classList.add(key);
         li.style.width = "4.3vw";
-        if (key === 'Africa' || key === 'North America' || key === 'South America') {
-            li.style.margin = "0 2vw";
+        if (uniqueLabel.includes(key)) {
+            li.style.marginLeft = "3vw";
         }
 
         const outerUl = document.getElementById("outerUl");
@@ -66,13 +67,16 @@ export function renderGroupsInUI(grouped: any): void {
         const groupTitleUl = document.getElementById("groupTitleUl");
         if (groupTitleUl) {
             let li = document.createElement("li");
-            li.innerHTML = key;
+            // li.innerHTML = key;
             li.style.width = "4.3vw";
             li.style.textAlign = "center";
             li.style.fontSize = "0.8vw";
-            if (key === 'Africa' || key === 'North America' || key === 'South America') {
-                // li.style.margin = "0 2vw";
-                li.style.width = "8.3vw";
+            if (uniqueLabel.includes(key)) {
+                li.style.marginLeft = "3vw";
+                // li.style.width = "8.3vw";
+                li.innerHTML = key;
+            } else {
+                li.innerHTML = '~';
             }
             groupTitleUl.appendChild(li);
         }
@@ -99,7 +103,6 @@ export function renderGroupsInUI(grouped: any): void {
         ul.style.display = "flex";
         ul.style.flexWrap = "wrap";
         ul.style.flexDirection = "row"
-        li.style.borderColor = "red";
-
+        li.style.border = "none";
     }
 }

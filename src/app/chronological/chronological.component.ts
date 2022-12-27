@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { arData } from '../data';
 import { ArchDataModel } from '../models';
-import { renderAlphsInUI } from '../utils-helper';
+import { renderSingleGroupsInUI } from '../utils-helper';
 
 @Component({
   selector: 'app-chronological',
@@ -41,6 +41,6 @@ export class ChronologicalComponent implements OnInit {
     let sortedGroup = [...arrGroup, insertAr].sort((a, b) => a[0].localeCompare(b[0]));
     sortedGroup = [["BC", BC], ...sortedGroup];
     const sortedObjGroup = Object.fromEntries(sortedGroup);
-    renderAlphsInUI(sortedObjGroup);
+    renderSingleGroupsInUI(sortedObjGroup);
   }
 }
