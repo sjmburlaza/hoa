@@ -1,9 +1,15 @@
-/* .active{
-    font-size: 18px;
-    color: red;
-} */
+h3 {
+    font-family: 'Prosto One';
+}
+
+a {
+    color: #171717;
+}
+
+a:link {
+    text-decoration: none;
+}
 
 .nav-text {
-    font-size: large;
-    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: 'Barlow';
 }

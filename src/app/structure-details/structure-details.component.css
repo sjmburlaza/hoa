@@ -2,3 +2,7 @@ img {
     width: auto;
     height: 70vh;
 }
+
+h3, p {
+    font-family: 'Barlow';
+}
