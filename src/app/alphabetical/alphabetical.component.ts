@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { arData } from '../data';
-import { ArchDataModel } from '../models';
+import { ArchDataModel, Category } from '../models';
 import { renderSingleGroupsInUI } from '../utils-helper';
 
 @Component({
@@ -29,7 +29,7 @@ export class AlphabeticalComponent implements OnInit {
       return r;
     }, Object.create(null));
 
-    renderSingleGroupsInUI(grouped);
+    renderSingleGroupsInUI(grouped, Category.ALPHABETICAL);
   }
   
 }

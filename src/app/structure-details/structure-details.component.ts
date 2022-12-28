@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { arData } from '../data';
+import { ArchDataModel } from '../models';
 
 @Component({
   selector: 'app-structure-details',
@@ -7,9 +10,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class StructureDetailsComponent implements OnInit {
 
-  constructor() { }
+  data: ArchDataModel[] = [];
+  arDetail: ArchDataModel | undefined;
+
+  constructor(
+    private route: ActivatedRoute,
+  ) { }
 
   ngOnInit(): void {
+    this.data = arData;
+    this.getArDetail();
+  }
+
+  getArDetail(): void {
+    const id = parseInt(this.route.snapshot.paramMap.get('id')!, 10);
+    this.arDetail = this.data.find(d => d.id === id);
   }
 
 }

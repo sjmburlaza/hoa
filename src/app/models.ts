@@ -12,3 +12,11 @@ export interface ArchDataModel {
     codename: string,
     color: string
 }
+
+export enum Category {
+    ALPHABETICAL,
+    CHRONOLOGICAL,
+    LOCATION,
+    PROGRAMMATIC,
+    STYLE
+}

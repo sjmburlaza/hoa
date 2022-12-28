@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { arData } from '../data';
-import { ArchDataModel } from '../models';
-import { renderMultiGroupsInUI } from '../utils-helper';
+import { ArchDataModel, Category } from '../models';
+import { renderSingleGroupsInUI } from '../utils-helper';
 
 @Component({
   selector: 'app-programmatic',
@@ -73,8 +73,7 @@ export class ProgrammaticComponent implements OnInit {
       arrGroup[8]
     ];
     const objGroup = Object.fromEntries(arrGroup);
-
-    renderMultiGroupsInUI(objGroup);
+    renderSingleGroupsInUI(objGroup, Category.PROGRAMMATIC)
   }
 
 }

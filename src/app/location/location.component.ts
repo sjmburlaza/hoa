@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { arData } from '../data';
-import { ArchDataModel } from '../models';
-import { renderSingleGroupsInUI, renderMultiGroupsInUI } from '../utils-helper';
+import { ArchDataModel, Category } from '../models';
+import { renderSingleGroupsInUI } from '../utils-helper';
 
 @Component({
   selector: 'app-location',
@@ -51,10 +51,8 @@ export class LocationComponent implements OnInit {
     eur6 = ["Europe6", eur6];
 
     arrGroup = [arrGroup[0], asia1, asia2, asia3, eur1, eur2, eur3, eur4, eur5, eur6, arrGroup[3], arrGroup[4]];
-    console.log(arrGroup)
     const objGroup = Object.fromEntries(arrGroup);
-
-    renderMultiGroupsInUI(objGroup);
+    renderSingleGroupsInUI(objGroup, Category.LOCATION)
   }
 
 }

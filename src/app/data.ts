@@ -470,7 +470,7 @@ export const arData = [
         "location": "Hampi, Kartanaka, India",
         "continent": "Asia",
         "description": "",
-        "imageURL": "https://www.talkativeman.com/img/Vijaya_Vittala_Temple.jpg",
+        "imageURL": "https://karnataka.b-cdn.net/wp-content/uploads/2011/06/vittala-temple-anegondi-hampi.jpg",
         "codename":"Vit",
         "color": "#FFFF00"
     },
@@ -1708,7 +1708,7 @@ export const arData = [
     },
     {
         "id": 123,
-        "name": "United States Air Force Academy Cadet Chapel",
+        "name": "US Air Force Academy Cadet Chapel",
         "yearBuilt": "1963",
         "style": "International",
         "buildingType": "Institutional",
