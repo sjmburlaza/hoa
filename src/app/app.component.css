@@ -16,4 +16,5 @@ a:link {
 
 .active {
     color: green !important;
+    font-weight: bolder;
 }

@@ -14,7 +14,7 @@ const routes: Routes = [
   { path: 'programmatic', component: ProgrammaticComponent },
   { path: 'style', component: StyleComponent },
   { path: 'detail/:id', component: StructureDetailsComponent },
-  { path: '', redirectTo: 'chronological', pathMatch: 'full' }
+  { path: '', redirectTo: 'style', pathMatch: 'full' }
 ];
 
 @NgModule({
