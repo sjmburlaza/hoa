@@ -9,6 +9,7 @@ import { AlphabeticalComponent } from './alphabetical/alphabetical.component';
 import { ProgrammaticComponent } from './programmatic/programmatic.component';
 import { LocationComponent } from './location/location.component';
 import { StyleComponent } from './style/style.component';
+import { StructureDetailsComponent } from './structure-details/structure-details.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { StyleComponent } from './style/style.component';
     AlphabeticalComponent,
     ProgrammaticComponent,
     LocationComponent,
-    StyleComponent
+    StyleComponent,
+    StructureDetailsComponent
   ],
   imports: [
     BrowserModule,

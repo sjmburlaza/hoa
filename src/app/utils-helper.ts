@@ -23,7 +23,9 @@ export function renderSingleGroupsInUI(grouped: any): void {
         let ul = document.createElement("ul"); 
 
         for (let group of grouped[key]) { 
-            let li = document.createElement("li"); 
+            let li = document.createElement("li");
+            onMouseOverEvent(li);
+            onMouseOutEvent(li);
             li.innerHTML = group['codename'];
             li.style.borderStyle = "solid";
             li.style.width = "2vw";
@@ -50,6 +52,7 @@ export function renderMultiGroupsInUI(grouped: any): void {
     const uniqueLabel = ['Africa', 'Asia', 'Europe', 'North America', 'South America',
     'Accessory', 'Cultural', 'Institutional', 'Memorial', 'Mixed-use', 'Public Space',
     'Religious', 'Residential', 'Utility'];
+    
     for (let key in grouped) {
         let li = document.createElement("li");
         li.classList.add('list-group-item');
@@ -105,4 +108,24 @@ export function renderMultiGroupsInUI(grouped: any): void {
         ul.style.flexDirection = "row"
         li.style.border = "none";
     }
+}
+
+function onMouseOverEvent(selector: HTMLLIElement): void {
+    selector.addEventListener('mouseover', (event) => {
+        if (event.target) {
+            (event.target as HTMLLIElement).style.width = "3vw";
+            (event.target as HTMLLIElement).style.height = "3vw";
+            (event.target as HTMLLIElement).style.fontSize = "1vw";
+        }
+    })
+}
+
+function onMouseOutEvent(selector: HTMLLIElement): void {
+    selector.addEventListener('mouseout', (event) => {
+        if (event.target) {
+            (event.target as HTMLLIElement).style.width = "2vw";
+            (event.target as HTMLLIElement).style.height = "2vw";
+            (event.target as HTMLLIElement).style.fontSize = "0.6vw";
+        }
+    })
 }
