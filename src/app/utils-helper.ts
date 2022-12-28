@@ -43,7 +43,7 @@ export function renderSingleGroupsInUI(grouped: any, category: Category): void {
         for (let group of grouped[key]) { 
             let li = document.createElement("li");
             li.innerHTML = `<a href="/detail/${group.id}" class="nav-link" routerLink="detail"
-                style="width: 2vw; height: 2vw; margin-top: 5px; font-size: 0.4vw; text-align: center; background-color: ${group.color}">
+                style="width: 2vw; height: 2vw; margin-top: 5px; font-size: 0.4vw; font-family: 'Barlow'; text-align: center; background-color: ${group.color}">
                 ${group.codename}
                 </a>`;
             onMouseOverEvent(li);

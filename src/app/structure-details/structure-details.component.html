@@ -1,11 +1,7 @@
-<div *ngIf="arDetail" class="row py-5">
-    <div class="col-md-8">
-        <div class="" style="text-align: right;">
-            <img src="{{ arDetail.imageURL }}" alt="">
-        </div>
-    </div>
-    <div class="col-md-4">
-        <h3 class="">{{ arDetail.name }}</h3>
+<div *ngIf="arDetail" class="row py-3">
+    <div class="text-center">
+        <img src="{{ arDetail.imageURL }}" alt="">
+        <h3 class=" mt-3">{{ arDetail.name }}</h3>
         <p>Location: {{ arDetail.location }}</p>
     </div>
 </div>

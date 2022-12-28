@@ -13,3 +13,7 @@ a:link {
 .nav-text {
     font-family: 'Barlow';
 }
+
+.active {
+    color: green !important;
+}
