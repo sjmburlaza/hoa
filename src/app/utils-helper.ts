@@ -42,6 +42,7 @@ export function renderSingleGroupsInUI(grouped: any, category: Category): void {
 
         for (let group of grouped[key]) { 
             let li = document.createElement("li");
+            li.style.color = determineBrightness(group.color);
             li.innerHTML = `<a href="/detail/${group.id}" class="nav-link" routerLink="detail"
                 style="width: 2vw; height: 2vw; margin-top: 5px; font-size: 0.4vw; font-family: 'Barlow'; text-align: center; background-color: ${group.color}">
                 ${group.codename}
@@ -71,4 +72,18 @@ function onMouseOutEvent(selector: HTMLLIElement): void {
     selector.addEventListener('mouseout', (e) => {
         (e.target as HTMLLIElement).style.fontSize = "0.4vw";
     })
+}
+
+function determineBrightness(hexcode: string): string {
+    const c = hexcode.substring(1);
+    const rgb = parseInt(c, 16);
+    const r = (rgb >> 16) & 0xff;
+    const g = (rgb >>  8) & 0xff;
+    const b = (rgb >>  0) & 0xff;
+    const luma = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+    if (luma < 100) {
+        return 'white';
+    } else {
+        return 'black';
+    }
 }
