@@ -918,7 +918,7 @@ export const arData = [
         "location": "Kent, UK",
         "continent": "Europe",
         "description": "",
-        "imageURL": "",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canterbury-cathedral-wyrdlight.jpg",
         "codename":"CaC",
         "color": "#704214"
     },
