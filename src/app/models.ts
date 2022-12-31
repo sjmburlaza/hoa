@@ -20,3 +20,14 @@ export enum Category {
     PROGRAMMATIC,
     STYLE
 }
+
+export enum Programmatic {
+    CULTURAL = 'Cultural',
+    RELIGIOUS = 'Religious',
+    RESIDENTIAL = 'Residential'
+}
+
+export enum Location {
+    ASIA = 'Asia',
+    EUROPE = 'Europe'
+}

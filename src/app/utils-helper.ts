@@ -87,3 +87,28 @@ function determineBrightness(hexcode: string): string {
         return 'black';
     }
 }
+
+export function divideArray(origArr: any, name: string, chunkLen: number): any {
+    const newArr = [];
+    let i = 0;
+    while (i < origArr.length) {
+      const chunk = origArr.slice(i, i+chunkLen);
+      if (!newArr.length) {
+        newArr.push([name, chunk]);
+      } else {
+        newArr.push([`${name}${i}`, chunk]);
+      }
+      i += chunkLen;
+    }
+    return newArr;
+}
+
+export function findArr(arr: [string, any][], name: string): any {
+    let array;
+    arr.forEach(el => {
+      if (el[0] === name) {
+        array = el[1];
+      }
+    })
+    return array;
+}
