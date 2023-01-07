@@ -8,6 +8,7 @@ export function renderSingleGroupsInUI(grouped: any, category: Category): void {
     for (let key in grouped) {
         let li = document.createElement("li");
         li.classList.add('list-group-item');
+        li.style.background = 'transparent';
         li.style.width = "4.3vw";
         if ((category === Category.LOCATION || category === Category.PROGRAMMATIC) && uniqueLabel.includes(key)) {
             li.style.marginLeft = "3vw";
