@@ -512,7 +512,7 @@ export const arData = [
         "location": "Beijing, China",
         "continent": "Asia",
         "descriptionURL": "https://en.wikipedia.org/wiki/Temple_of_Heaven",
-        "imageURL": "https://inhabitat.com/wp-content/blogs.dir/1/files/2015/12/The-Hall-of-Prayer-for-Good-Harvests-of-the-Temple-of-Heaven-889x592.jpg",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/87/11_Temple_of_Heaven.jpg",
         "codename":"HPG",
         "color": "#FDD017"
     },
@@ -904,7 +904,7 @@ export const arData = [
         "location": "Paris, France",
         "continent": "Europe",
         "descriptionURL": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
-        "imageURL": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#/media/File:Notre-Dame_de_Paris,_4_October_2017.jpg",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg",
         "codename":"NDC",
         "color": "#5C3317"
     },
