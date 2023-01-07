@@ -8,7 +8,7 @@ export const arData = [
         "scale": "",
         "location": "Saqqara, Egypt",
         "continent": "Africa",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Pyramid_of_Djoser",
         "imageURL": "https://www.cleopatraegypttours.com/wp-content/uploads/2018/07/pyramid-of-Djoser.jpg",
         "codename":"POD",
         "color": "#566D7E"
@@ -22,7 +22,7 @@ export const arData = [
         "scale": "",
         "location": "Giza, Egypt",
         "continent": "Africa",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/1024px-Kheops-Pyramid.jpg",
         "codename":"GPG",
         "color": "#737CA1"
@@ -36,7 +36,7 @@ export const arData = [
         "scale": "",
         "location": "Luxor, Egypt",
         "continent": "Africa",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Great_Hypostyle_Hall",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Temple_de_Louxor_68.jpg/1024px-Temple_de_Louxor_68.jpg",
         "codename":"HHK",
         "color": "#728FCE"
@@ -50,7 +50,7 @@ export const arData = [
         "scale": "",
         "location": "Egypt",
         "continent": "Africa",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Abu_Simbel",
         "imageURL": "https://www.worldatlas.com/r/w960-q80/upload/4f/c6/2f/shutterstock-397432201.jpg",
         "codename":"GTA",
         "color": "#4863A0"
@@ -64,7 +64,7 @@ export const arData = [
         "scale": "",
         "location": "Athens, Greece",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Temple_of_Hephaestus",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hephaistos_Temple.JPG/1024px-Hephaistos_Temple.JPG",
         "codename":"TOH",
         "color": "#2B547E"
@@ -78,7 +78,7 @@ export const arData = [
         "scale": "",
         "location": "Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Segesta",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Segesta_AncientGreekTemple_0932.jpg/1024px-Segesta_AncientGreekTemple_0932.jpg",
         "codename":"TOS",
         "color": "#36454F"
@@ -92,7 +92,7 @@ export const arData = [
         "scale": "",
         "location": "Athens, Greece",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Erechtheion",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Erechtheum_Acropolis_Athens.jpg/1024px-Erechtheum_Acropolis_Athens.jpg",
         "codename":"ERE",
         "color": "#29465B"
@@ -106,7 +106,7 @@ export const arData = [
         "scale": "",
         "location": "Athens, Greece",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Parthenon",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/1024px-The_Parthenon_in_Athens.jpg",
         "codename":"PAR",
         "color": "#2B3856"
@@ -120,7 +120,7 @@ export const arData = [
         "scale": "",
         "location": "Delphi, Greece",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Tholos_of_Delphi",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tholos_%2826307490985%29.jpg/1024px-Tholos_%2826307490985%29.jpg",
         "codename":"TSP",
         "color": "#123456"
@@ -134,7 +134,7 @@ export const arData = [
         "scale": "",
         "location": "Epidaurus, Greece",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Epidaurus",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_great_theater_of_Epidaurus%2C_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC%2C_Sanctuary_of_Asklepeios_at_Epidaurus%2C_Greece_%2814015010416%29.jpg/1024px-The_great_theater_of_Epidaurus%2C_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC%2C_Sanctuary_of_Asklepeios_at_Epidaurus%2C_Greece_%2814015010416%29.jpg",
         "codename":"ATE",
         "color": "#151B54"
@@ -146,9 +146,9 @@ export const arData = [
         "style": "Greek/Roman",
         "buildingType": "Cultural",
         "scale": "",
-        "location": "Rome",
+        "location": "Rome, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Colosseum",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1024px-Colosseo_2020.jpg",
         "codename":"COL",
         "color": "#191970"
@@ -162,7 +162,7 @@ export const arData = [
         "scale": "",
         "location": "France",
         "continent": "Europe",
-        "description": "Roman aqueduct",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Pont_du_Gard",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/1024px-Pont_du_Gard_BLS.jpg",
         "codename":"PDG",
         "color": "#000080"
@@ -176,7 +176,7 @@ export const arData = [
         "scale": "",
         "location": "France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Maison_carr%C3%A9e",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Maison_Carree_in_Nimes_%2816%29.jpg/1024px-Maison_Carree_in_Nimes_%2816%29.jpg",
         "codename":"MCa",
         "color": "#9AFEFF"
@@ -188,9 +188,9 @@ export const arData = [
         "style": "Greek/Roman",
         "buildingType": "Religious",
         "scale": "",
-        "location": "Rome",
+        "location": "Rome, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pantheon_Rom_1_cropped.jpg/1024px-Pantheon_Rom_1_cropped.jpg",
         "codename":"PAN",
         "color": "#57FEFF"
@@ -204,7 +204,7 @@ export const arData = [
         "scale": "",
         "location": "Ephesus, Turkey",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Library_of_Celsus",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg/1024px-Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
         "codename":"LoC",
         "color": "#8EEBEC"
@@ -216,9 +216,9 @@ export const arData = [
         "style": "Greek/Roman",
         "buildingType": "Cultural",
         "scale": "",
-        "location": "Rome",
+        "location": "Rome, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Arch_of_Constantine",
         "imageURL": "https://cdn.britannica.com/16/136616-050-3AFDD5E6/Arch-of-Constantine-Rome.jpg",
         "codename":"AoC",
         "color": "#81D8D0"
@@ -232,7 +232,7 @@ export const arData = [
         "scale": "",
         "location": "Teotihuacan, Mexico",
         "continent": "South America",
-        "description": "",
+        "descriptionURL": "https://www.ncpedia.org/media/avenue-dead-teotihuacan",
         "imageURL": "https://www.worldhistory.org/uploads/images/3630.jpg?v=1639849501",
         "codename":"AoD",
         "color": "#2E8B57"
@@ -246,7 +246,7 @@ export const arData = [
         "scale": "",
         "location": "Chiapas, Mexico",
         "continent": "South America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Palenque",
         "imageURL": "https://www.thoughtco.com/thmb/LF_2xhuBzeJCG7DoKMdKa9aUf28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/view-of-the-palace-palenque-unesco-world-heritage-list-1987-chiapas-mexico-mayan-civilization-7th-8th-century-557378321-58b1a3233df78cdcd8d7034e.jpg",
         "codename":"PoP",
         "color": "#50C878"
@@ -260,7 +260,7 @@ export const arData = [
         "scale": "",
         "location": "Tikal, Guatemala",
         "continent": "South America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Tikal_Temple_I",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tikal_Temple1_2006_08_11.JPG/800px-Tikal_Temple1_2006_08_11.JPG",
         "codename":"TGJ",
         "color": "#78866B"
@@ -268,13 +268,13 @@ export const arData = [
     {
         "id": 20,
         "name": "Nunnery Quadrangle",
-        "yearBuilt": "800-1000",
+        "yearBuilt": "900-1000",
         "style": "Pre-Columbian",
         "buildingType": "Residential",
         "scale": "",
-        "location": "Yucatan, Mexico",
+        "location": "Uxmal, Mexico",
         "continent": "South America",
-        "description": "",
+        "descriptionURL": "https://mayanpeninsula.com/en/nunnery-quadrangle-in-uxmal/",
         "imageURL": "https://www.worldhistory.org/uploads/images/3108.jpg?v=1635173101",
         "codename":"NUQ",
         "color": "#848B79"
@@ -288,7 +288,7 @@ export const arData = [
         "scale": "",
         "location": "Yucatan, Mexico",
         "continent": "South America",
-        "description": "",
+        "descriptionURL": "https://www.chichenitza.com/temple-of-the-warriors",
         "imageURL": "https://www.theyucatantimes.com/wp-content/uploads/2020/01/AMT10148-768x321.jpg",
         "codename":"ToW",
         "color": "#728C00"
@@ -302,7 +302,7 @@ export const arData = [
         "scale": "",
         "location": "Madhya Pradesh, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Sanchi",
         "imageURL": "https://cdn.britannica.com/36/155836-050-89E7AA9E/Great-Stupa-Sanchi-India.jpg",
         "codename":"GSS",
         "color": "#6B8E23"
@@ -316,7 +316,7 @@ export const arData = [
         "scale": "",
         "location": "Bangladesh",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Somapura_Mahavihara",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paharpur_Buddhist_Bihar.jpg/1024px-Paharpur_Buddhist_Bihar.jpg",
         "codename":"SoM",
         "color": "#556B2F"
@@ -328,9 +328,9 @@ export const arData = [
         "style": "Buddhist",
         "buildingType": "Cultural",
         "scale": "",
-        "location": "India",
+        "location": "Ajanta, Aurangabad district, Maharashtra, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Ajanta_Caves",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ajanta_%2863%29.jpg",
         "codename":"AJC",
         "color": "#4B5320"
@@ -343,7 +343,7 @@ export const arData = [
         "scale": "",
         "location": "Jaipur, Rajasthan, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Hawa_Mahal",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hawa_Mahal_east_facade_%2814-07-2022%29.jpg",
         "codename":"HaM",
         "color": "#4E9258"
@@ -357,7 +357,7 @@ export const arData = [
         "scale": "",
         "location": "Ghumli, Gujarat, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Navlakha_temple",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/Navlakha_arial_view_03.jpg",
         "codename":"NaT",
         "color": "#347235"
@@ -371,7 +371,7 @@ export const arData = [
         "scale": "",
         "location": "Mount Abu, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://www.mountabuonline.in/city-guide/vimal-vasahi-temple",
         "imageURL": "https://www.optimatravels.com/images/rajasthan-images/vimala-vasahi-temple-mount-abu.jpg",
         "codename":"JVV",
         "color": "#228B22"
@@ -385,7 +385,7 @@ export const arData = [
         "scale": "",
         "location": "Bhaktapur, Nepal",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Nyatapola_Temple",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kathmandu_und_Bhaktapur_2013-05-11_16-03-39.jpg",
         "codename":"NyT",
         "color": "#006400"
@@ -399,7 +399,7 @@ export const arData = [
         "scale": "",
         "location": "Paro, Bhutan",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Paro_Taktsang",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bhutan-Paro-136-Taktshang-Tigernest-gje.jpg",
         "codename":"PaT",
         "color": "#6AA121"
@@ -413,7 +413,7 @@ export const arData = [
         "scale": "",
         "location": "Lhasa, Tibet",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Potala_Palace",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Potala_Palace_HR.jpg",
         "codename":"Pot",
         "color": "#3EA055"
@@ -427,8 +427,8 @@ export const arData = [
         "scale": "",
         "location": "Kashmir, India",
         "continent": "Asia",
-        "description": "",
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/87/Jama_Mazjid%2C_delhi_by_Shail_kannur_%281%29.jpg",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Jamia_Masjid,_Srinagar",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jama_Masjid%2C_Srinagar_%2814363005587%29.jpg",
         "codename":"JaM",
         "color": "#4CC417"
     },
@@ -439,9 +439,9 @@ export const arData = [
         "style": "Dravidian",
         "buildingType": "Religious",
         "scale": "",
-        "location": "India",
+        "location": "Thiruvananthapuram, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple",
         "imageURL": "https://www.holidify.com/images/cmsuploads/compressed/6580072031_bd440e0838_b_20180205133850.jpg",
         "codename":"Pad",
         "color": "#EDE275"
@@ -453,9 +453,9 @@ export const arData = [
         "style": "Dravidian",
         "buildingType": "Religious",
         "scale": "",
-        "location": "Tamil, Nadu, India",
+        "location": "Tamil Nadu, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/MEENAKSHI_TEMPLE-_WEST_TOWER.jpg/800px-MEENAKSHI_TEMPLE-_WEST_TOWER.jpg",
         "codename":"Mee",
         "color": "#FAF884"
@@ -463,13 +463,13 @@ export const arData = [
     {
         "id": 34,
         "name": "Vitthala Temple",
-        "yearBuilt": "1500",
+        "yearBuilt": "1400",
         "style": "Dravidian",
         "buildingType": "Religious",
         "scale": "",
         "location": "Hampi, Kartanaka, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://hampi.in/vittala-temple",
         "imageURL": "https://karnataka.b-cdn.net/wp-content/uploads/2011/06/vittala-temple-anegondi-hampi.jpg",
         "codename":"Vit",
         "color": "#FFFF00"
@@ -477,13 +477,13 @@ export const arData = [
     {
         "id": 35,
         "name": "Giant Wild Goose Pagoda",
-        "yearBuilt": "652",
+        "yearBuilt": "648",
         "style": "Sinosphere",
         "buildingType": "Cultural",
         "scale": "",
         "location": "Shaanxi, China",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Giant_Wild_Goose_Pagoda",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Giant_Wild_Goose_Pagoda.jpg",
         "codename":"GWG",
         "color": "#F5E216"
@@ -497,7 +497,7 @@ export const arData = [
         "scale": "",
         "location": "Jixian, China",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Dule_Temple#:~:text=Guanyin%20Pavilion,-The%20Guanyin%20Pavilion&text=The%20statue%2C%20measuring%2016%20meters,dynasty%20(618%2D907).",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Guanyin_Pavilion_of_Dule_Temple.JPG",
         "codename":"GPD",
         "color": "#FFDB58"
@@ -505,13 +505,13 @@ export const arData = [
     {
         "id": 37,
         "name": "Hall of Prayer for Good Harvests",
-        "yearBuilt": "1703-1790",
+        "yearBuilt": "1400",
         "style": "Sinosphere",
         "buildingType": "Religious",
         "scale": "",
         "location": "Beijing, China",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Temple_of_Heaven",
         "imageURL": "https://inhabitat.com/wp-content/blogs.dir/1/files/2015/12/The-Hall-of-Prayer-for-Good-Harvests-of-the-Temple-of-Heaven-889x592.jpg",
         "codename":"HPG",
         "color": "#FDD017"
@@ -525,7 +525,7 @@ export const arData = [
         "scale": "",
         "location": "Hanoi, Vietnam",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Temple_of_Literature,_Hanoi",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hanoi_Temple_of_Literature.jpg",
         "codename":"ToL",
         "color": "#F2BB66"
@@ -539,23 +539,23 @@ export const arData = [
         "scale": "",
         "location": "Seoul, South Korea",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Gyeongbokgung",
         "imageURL": "https://a.cdn-hotels.com/gdcs/production87/d1597/ecdd89f2-79d4-46a1-b474-6f132ffdc2d1.jpg",
         "codename":"GyP",
         "color": "#FBB117"
     },
     {
         "id": 40,
-        "name": "Mausoleum of Emperor Nintoku",
-        "yearBuilt": "300",
+        "name": "Mozu Tombs",
+        "yearBuilt": "200-500",
         "style": "Sinosphere",
         "buildingType": "Memorial",
         "scale": "",
         "location": "Sakai, Osaka Prefecture, Japan",
         "continent": "Asia",
-        "description": "",
-        "imageURL": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2019/08/ee4413c8-04c1-11e8-a82c-06326e701dd4-1024x722.jpeg",
-        "codename":"MEN",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Mozu_Tombs",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mozu_Kofun_Group_Aerial_photograph_2007.jpg",
+        "codename":"MOZ",
         "color": "#FFA62F"
     },
     {
@@ -567,23 +567,23 @@ export const arData = [
         "scale": "",
         "location": "Nara Prefecture, Japan",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/H%C5%8Dry%C5%AB-ji",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Horyu-ji_National_Treasure_World_heritage_%E5%9B%BD%E5%AE%9D%E3%83%BB%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E6%B3%95%E9%9A%86%E5%AF%BA85.JPG",
         "codename":"PaH",
         "color": "#EE9A4D"
     },
     {
         "id": 42,
-        "name": "Garden of the Ninna-ji Temple",
+        "name": "Ninna-ji",
         "yearBuilt": "888",
         "style": "Sinosphere",
         "buildingType": "Public Space",
         "scale": "",
         "location": "Kyoto, Japan",
         "continent": "Asia",
-        "description": "",
-        "imageURL": "https://www.japan-guide.com/g19/3929_02.jpg",
-        "codename":"GNT",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Ninna-ji",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ninna-ji%27s_Golden_Hall%2C_front_view_of_the_Shingon_Buddhist_temple%2C_Uky%C5%8D-ku%2C_Kyoto%2C_Japan.jpg",
+        "codename":"NNJ",
         "color": "#E2A76F"
     },
     {
@@ -595,7 +595,7 @@ export const arData = [
         "scale": "",
         "location": "Kyoto, Japan",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Kinkaku-ji",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG",
         "codename":"Kin",
         "color": "#C19A6B"
@@ -609,7 +609,7 @@ export const arData = [
         "scale": "",
         "location": "Hariharalaya, Roluos, Cambodia",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Bakong",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Roulos_Group_-_005_Bakong_%288587796725%29.jpg",
         "codename":"Bak",
         "color": "#E6BF83"
@@ -623,7 +623,7 @@ export const arData = [
         "scale": "",
         "location": "Sisaket, Thailand",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://fr.wikipedia.org/wiki/Prasat_Prang_Ku",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Prasat_Prang_Ku-002.jpg",
         "codename":"PPK",
         "color": "#C8B560"
@@ -637,7 +637,7 @@ export const arData = [
         "scale": "",
         "location": "Angkor, Cambodia",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Angkor_Wat",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ankor_Wat_temple.jpg",
         "codename":"AnW",
         "color": "#C7A317"
@@ -651,7 +651,7 @@ export const arData = [
         "scale": "",
         "location": "My Son, Vietnam",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Art_of_Champa",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Th%C3%A1p_D%C6%B0%C6%A1ng_Long.JPG",
         "codename":"Cha",
         "color": "#B8860B"
@@ -665,7 +665,7 @@ export const arData = [
         "scale": "",
         "location": "Jerusalem",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Rock_%28SE_exposure%29.jpg",
         "codename":"DoR",
         "color": "#CD7F32"
@@ -679,7 +679,7 @@ export const arData = [
         "scale": "",
         "location": "Samarra, Iraq",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "Great Mosque of Samarra",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/001124-MalwiyaMosque-Samerra-IMG_7824-2.jpg",
         "codename":"GMS",
         "color": "#AA6C39"
@@ -693,7 +693,7 @@ export const arData = [
         "scale": "",
         "location": "Multan, Pakistan",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Tomb_of_Shah_Rukn-e-Alam",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Shah_Rukn-e-Alam_Shrine.jpg",
         "codename":"TSR",
         "color": "#AB784E"
@@ -707,7 +707,7 @@ export const arData = [
         "scale": "",
         "location": "Alhambra, Granada, Spain",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Court_of_the_Lions",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/29/Palacios_Nazar%C3%ADes_in_the_Alhambra_%28Granada%29._%2851592334991%29.jpg",
         "codename":"CoL",
         "color": "#806517"
@@ -721,7 +721,7 @@ export const arData = [
         "scale": "",
         "location": "Agra, India",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Taj_Mahal",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/67/Taj_Mahal_in_India_-_Kristian_Bertel.jpg",
         "codename":"Taj",
         "color": "#665D1E"
@@ -735,7 +735,7 @@ export const arData = [
         "scale": "",
         "location": "Aventine Hill, Rome",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Santa_Sabina",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rom%2C_Basilika_Santa_Sabina%2C_Au%C3%9Fenansicht.jpg",
         "codename":"BSS",
         "color": "#8E7618"
@@ -749,7 +749,7 @@ export const arData = [
         "scale": "",
         "location": "Istanbul, Turkey",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Hagia_Irene",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg",
         "codename":"HaI",
         "color": "#8B8000"
@@ -763,7 +763,7 @@ export const arData = [
         "scale": "",
         "location": "Ravenna, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Basilica_of_San_Vitale",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Basilica_of_San_Vitale.jpg",
         "codename":"BSV",
         "color": "#827839"
@@ -777,7 +777,7 @@ export const arData = [
         "scale": "",
         "location": "Ravenna, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Basilica_of_Sant%27Apollinare_in_Classe",
         "imageURL": "https://www.turismo.ra.it/wp-content/uploads/2020/12/ravenna-basilica_sant_apollinare_classe-servizio_turismo-comunicattivi-DSC_4298.jpg",
         "codename":"BSC",
         "color": "#8A865D"
@@ -791,7 +791,7 @@ export const arData = [
         "scale": "",
         "location": "Athens, Greece",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Church_of_Panagia_Kapnikarea",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/28/08%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%B1_%CE%9A%CE%B1%CF%80%CE%BD%CE%B9%CE%BA%CE%B1%CF%81%CE%AD%CE%B13.jpg",
         "codename":"Kap",
         "color": "#93917C"
@@ -805,7 +805,7 @@ export const arData = [
         "scale": "",
         "location": "Istanbul, Turkey",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Hagia_Sophia",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg",
         "codename":"THS",
         "color": "#AF9B60"
@@ -819,8 +819,8 @@ export const arData = [
         "scale": "",
         "location": "Hildesheim, Germany",
         "continent": "Europe",
-        "description": "",
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Church_of_St._Michael_2015.jpg",
+        "descriptionURL": "https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Hildesheim",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/St_Michaels_Church_Hildesheim.jpg",
         "codename":"SMC",
         "color": "#827B60"
     },
@@ -833,7 +833,7 @@ export const arData = [
         "scale": "",
         "location": "Santo Domingo de Silos, Spain",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Abbey_of_Santo_Domingo_de_Silos",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/Santo_Domingo_de_Silos-01-Kloster-gje.jpg",
         "codename":"ASD",
         "color": "#786D5F"
@@ -847,7 +847,7 @@ export const arData = [
         "scale": "",
         "location": "Conques, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Abbey_Church_of_Sainte-Foy",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Saint_Faith_Abbey_Church_of_Conques_22.jpg",
         "codename":"ACS",
         "color": "#483C32"
@@ -861,7 +861,7 @@ export const arData = [
         "scale": "",
         "location": "Durham, UK",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Durham_Cathedral",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Durham_MMB_02_Cathedral.jpg",
         "codename":"DuC",
         "color": "#513B1C"
@@ -875,7 +875,7 @@ export const arData = [
         "scale": "",
         "location": "Germany",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Maria_Laach_Abbey",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Maria_Laach_02.jpg",
         "codename":"MLA",
         "color": "#3D3635"
@@ -889,7 +889,7 @@ export const arData = [
         "scale": "",
         "location": "Netherlands",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Munsterkerk",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Roermondmunster.jpg",
         "codename":"Mun",
         "color": "#43302E"
@@ -903,7 +903,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
         "imageURL": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#/media/File:Notre-Dame_de_Paris,_4_October_2017.jpg",
         "codename":"NDC",
         "color": "#5C3317"
@@ -917,7 +917,7 @@ export const arData = [
         "scale": "",
         "location": "Kent, UK",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Canterbury_Cathedral",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canterbury-cathedral-wyrdlight.jpg",
         "codename":"CaC",
         "color": "#704214"
@@ -931,7 +931,7 @@ export const arData = [
         "scale": "",
         "location": "Chartres, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Chartres_Cathedral",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canterbury-cathedral-wyrdlight.jpg",
         "codename":"ChC",
         "color": "#A0522D"
@@ -945,7 +945,7 @@ export const arData = [
         "scale": "",
         "location": "Bruges, Belgium",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Bruges_City_Hall",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bruges_Town_Hall_R01.jpg",
         "codename":"BCH",
         "color": "#954535"
@@ -959,7 +959,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Sens",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/H%C3%B4tel_de_Sens_1.jpg",
         "codename":"HDS",
         "color": "#C04000"
@@ -973,7 +973,7 @@ export const arData = [
         "scale": "",
         "location": "Kaliningrad, Russia",
         "continent": "Asia",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/K%C3%B6nigsberg_Cathedral",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/05/Kaliningrad_05-2017_img04_Kant_Island.jpg",
         "codename":"Kon",
         "color": "#EB5406"
@@ -987,7 +987,7 @@ export const arData = [
         "scale": "",
         "location": "Hague, Netherlands",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Ridderzaal",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Den_Haag_Binnenhof_Ridderzaal_4.jpg",
         "codename":"Rid",
         "color": "#C35817"
@@ -1001,7 +1001,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Sainte-Chapelle",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sainte_Chapelle_Ch%C3%A2teau_Vincennes_-_Vincennes_%28FR94%29_-_2020-10-10_-_21_%28cropped%29.jpg",
         "codename":"Sai",
         "color": "#B86500"
@@ -1015,7 +1015,7 @@ export const arData = [
         "scale": "",
         "location": "Florence, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Florence_Cathedral",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg",
         "codename":"FlC",
         "color": "#B5651D"
@@ -1029,7 +1029,7 @@ export const arData = [
         "scale": "",
         "location": "Mantua, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Basilica_di_Sant%27Andrea",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fb/MantovaBasilicaSantAndrea_cutnpaste_over_intrusions.jpg",
         "codename":"BSA",
         "color": "#B76734"
@@ -1041,9 +1041,9 @@ export const arData = [
         "style": "Rennaisance",
         "buildingType": "Religious",
         "scale": "",
-        "location": "Rome",
+        "location": "Rome, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/San_Pietro_in_Montorio#The_Tempietto",
         "imageURL": "https://i.pinimg.com/564x/ed/ac/53/edac53cb9e2ef63798ce7485cc93ec1b.jpg",
         "codename":"Tem",
         "color": "#C36241"
@@ -1057,7 +1057,7 @@ export const arData = [
         "scale": "",
         "location": "outside Rome",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Villa_Madama",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/02/Il_giardino_di_Villa_Madama.jpg",
         "codename":"ViM",
         "color": "#FF6700"
@@ -1071,7 +1071,7 @@ export const arData = [
         "scale": "",
         "location": "Loire, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27Azay-le-Rideau",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chateau-Azay-le-Rudeau-1.jpg",
         "codename":"CAR",
         "color": "#FF5F1F"
@@ -1085,7 +1085,7 @@ export const arData = [
         "scale": "",
         "location": "Loire, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/ChateauChambordArialView01.jpg",
         "codename":"CdC",
         "color": "#F88017"
@@ -1097,9 +1097,9 @@ export const arData = [
         "style": "Rennaisance",
         "buildingType": "Residential",
         "scale": "",
-        "location": "Rome",
+        "location": "Rome, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Palazzo_Farnese",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Palais_Farnese.jpg",
         "codename":"PaR",
         "color": "#F87431"
@@ -1113,7 +1113,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Temple_du_Marais",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Paris_75004_Temple_du_Marais_%28temple_Sainte-Marie%29_20151213.jpg",
         "codename":"TdM",
         "color": "#FF7722"
@@ -1125,9 +1125,9 @@ export const arData = [
         "style": "Baroque",
         "buildingType": "Religious",
         "scale": "",
-        "location": "Rome",
+        "location": "Rome, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/San_Carlo_alle_Quattro_Fontane",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/San_Carlo_alle_Quattro_Fontane_-_Front.jpg",
         "codename":"SCQ",
         "color": "#E67451"
@@ -1139,9 +1139,9 @@ export const arData = [
         "style": "Baroque",
         "buildingType": "Public Space",
         "scale": "",
-        "location": "Rome",
+        "location": "Rome, Italy",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/St._Peter%27s_Square",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/59/2004_Saint_Peter%27s_Square.jpg",
         "codename":"SPQ",
         "color": "#FFA07A"
@@ -1155,7 +1155,7 @@ export const arData = [
         "scale": "",
         "location": "France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://vaux-le-vicomte.com/en/decouvrir/the-french-formal-garden/",
         "imageURL": "https://media.vaux-le-vicomte.com/wp-content/uploads/2019/12/10125050/20190616_Rubans_%C3%A9ph%C3%A9m%C3%A8res_Vaux_g_eal_P616108-Bd.jpg",
         "codename":"GVV",
         "color": "#DA8A67"
@@ -1169,7 +1169,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Les_Invalides",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Cath%C3%A9drale_Saint-Louis-des-Invalides%2C_140309_2.jpg",
         "codename":"DdI",
         "color": "#FF8674"
@@ -1183,7 +1183,7 @@ export const arData = [
         "scale": "",
         "location": "Greenwich, London",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Royal_Naval_Hospital",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Royal_Naval_Hospital%2C_Great_Yarmouth.jpg",
         "codename":"RVH",
         "color": "#F08080"
@@ -1197,8 +1197,8 @@ export const arData = [
         "scale": "",
         "location": "Prague, Czech Republic",
         "continent": "Europe",
-        "description": "",
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/AMSTERDAM_HOLLAND_APRIL_2013_%288711705082%29.jpg",
+        "descriptionURL": "https://en.wikipedia.org/wiki/St._Nicholas_Church_(Mal%C3%A1_Strana)",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Praag%2C_Tsjechi%C3%AB_Aug_17%2C_2019_05-12-38_PM.jpeg",
         "codename":"CSN",
         "color": "#F67280"
     },
@@ -1211,7 +1211,7 @@ export const arData = [
         "scale": "",
         "location": "Vienna, Austria",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Karlskirche",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Karlskirche_Abendsonne_1.jpg",
         "codename":"Kar",
         "color": "#F75D59"
@@ -1225,7 +1225,7 @@ export const arData = [
         "scale": "",
         "location": "Amsterdam, The Netherlands",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Palacio_Real%2C_%C3%81msterdam%2C_Pa%C3%ADses_Bajos%2C_2016-05-30%2C_DD_07-09_HDR.jpg",
         "codename":"RPA",
         "color": "#CD5C5C"
@@ -1239,7 +1239,7 @@ export const arData = [
         "scale": "",
         "location": "Dresden, Germany",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Zwinger",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/29/2006-07-30_Zwinger_dresden2.jpg",
         "codename":"Zwi",
         "color": "#FF4500"
@@ -1253,7 +1253,7 @@ export const arData = [
         "scale": "",
         "location": "The Netherlands",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_St._Gerlach",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/Overzicht_voorgevel_Proostenhuis_met_rechts_de_kerk_-_Houthem_-_20423071_-_RCE.jpg",
         "codename":"CSG",
         "color": "#FD1C03"
@@ -1267,7 +1267,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://www.france-voyage.com/cities-towns/paris-29996/private-mansion-chenizot-20440.htm",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Hotel_de_chenizot_facade.jpg",
         "codename":"DHC",
         "color": "#F70D1A"
@@ -1281,23 +1281,23 @@ export const arData = [
         "scale": "",
         "location": "Lisbon, Portugal",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Palace_of_Queluz",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pal%C3%A1cio_Queluz_March_2018-2.jpg",
         "codename":"Qup",
         "color": "#C24641"
     },
     {
         "id": 93,
-        "name": "Pilgrimage Church of Wies",
+        "name": "Wieskirche",
         "yearBuilt": "1754",
         "style": "Rococo",
         "buildingType": "Religious",
         "scale": "",
         "location": "Steingaden, Germany",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Wieskirche",
         "imageURL": "https://whc.unesco.org/uploads/thumbs/site_0271_0001-1000-749-20131014172231.jpg",
-        "codename":"PCW",
+        "codename":"WIE",
         "color": "#B21807"
     },
     {
@@ -1309,7 +1309,7 @@ export const arData = [
         "scale": "",
         "location": "UK",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Stourhead",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/English_landscape_garden_at_Stourhead%2C_England.jpg",
         "codename":"ELG",
         "color": "#A70D2A"
@@ -1323,7 +1323,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Panth%C3%A9on",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/Pantheon_of_Paris_007.JPG",
         "codename":"PaP",
         "color": "#990000"
@@ -1337,7 +1337,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/H%C3%B4tel_de_la_Marine",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/46/H%C3%B4tel_de_la_Marine.jpg",
         "codename":"HdM",
         "color": "#8C001A"
@@ -1351,7 +1351,7 @@ export const arData = [
         "scale": "",
         "location": "Bordeaux, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Bordeaux",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bordeaux_Grand_Th%C3%A9%C3%A2tre_R03.jpg",
         "codename":"SGT",
         "color": "#560319"
@@ -1365,7 +1365,7 @@ export const arData = [
         "scale": "",
         "location": "Harlem, The Netherlands",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Villa_Welgelegen",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Villa_welgelegen_-_paviljoenslaan.jpg",
         "codename":"ViW",
         "color": "#3D0C02"
@@ -1379,7 +1379,7 @@ export const arData = [
         "scale": "",
         "location": "Berlin, Germany",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Neue_Wache",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ee/150214_Neue_Wache_Berlin.jpg",
         "codename":"NeW",
         "color": "#550A35"
@@ -1393,7 +1393,7 @@ export const arData = [
         "scale": "",
         "location": "Edinburgh, UK",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/List_of_Robert_Burns_memorials",
         "imageURL": "https://edinburghguide.com/sites/default/files/styles/max_870/public/2021/Emeka%20Ogboh%2C%20Song%20of%20the%20Union%2C%202021--ed.jpg?itok=D1s3pa6i",
         "codename":"BuM",
         "color": "#7D0552"
@@ -1407,7 +1407,7 @@ export const arData = [
         "scale": "",
         "location": "Versailles, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Petit_Trianon",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7f/West_facade_of_Petit_Trianon_002.JPG",
         "codename":"PeT",
         "color": "#872657"
@@ -1421,7 +1421,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Palais_Garnier",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg",
         "codename":"EPG",
         "color": "#7F4E52"
@@ -1435,7 +1435,7 @@ export const arData = [
         "scale": "",
         "location": "",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://www.explorest.com/places/france/paris/palais-garnier-grand-staircase",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/28/Monumental_stairway_of_the_palais_Garnier_opera_in_Paris.jpg",
         "codename":"GSP",
         "color": "#7F5A58"
@@ -1449,7 +1449,7 @@ export const arData = [
         "scale": "",
         "location": "Bucharest, Romania",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://www.google.com/search?q=The+CEC+Palace+on+Victory+Avenue&rlz=1C5MACD_enPH1038PH1038&oq=The+CEC+Palace+on+Victory+Avenue&aqs=chrome..69i57j33i160.605j0j4&sourceid=chrome&ie=UTF-8",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Palacio_CEC%2C_Bucarest%2C_Ruman%C3%ADa%2C_2016-05-29%2C_DD_91-93_HDR.jpg",
         "codename":"CEC",
         "color": "#B1907F"
@@ -1463,7 +1463,7 @@ export const arData = [
         "scale": "",
         "location": "Bucharest, Romania",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Cantacuzino_Palace",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Cantacuzino_Palace_from_Bucharest_%28Romania%29.jpg",
         "codename":"CaP",
         "color": "#B38481"
@@ -1477,7 +1477,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Petit_Palais",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/71/Petit-Palais-Paris-02-2018.jpg",
         "codename":"PeP",
         "color": "#E799A3"
@@ -1491,7 +1491,7 @@ export const arData = [
         "scale": "",
         "location": "New York City",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Grand_Central_Terminal",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/71/Image-Grand_central_Station_Outside_Night_2.jpg",
         "codename":"GCT",
         "color": "#D58A94"
@@ -1505,7 +1505,7 @@ export const arData = [
         "scale": "",
         "location": "Antwerp, Belgium",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://www.google.com/search?q=beaux+arts+villa+antwerp+belgium&rlz=1C5MACD_enPH1038PH1038&sxsrf=AJOqlzWDIVswIUTOPGCBxSZ8tvVQ50O7nw%3A1673067318502&ei=Nvu4Y5SqHtGT-AaGxL3ACQ&oq=Beaux+Arts+Villa+antwerp&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgBMgUIIRCgATIFCCEQoAEyCAghEBYQHhAdOgoIABBHENYEELADOgoILhCABBANEOoEOgcIABCABBANOgYIABAeEA06BggAEBYQHjoICAAQFhAeEA86FQguEIAEEA0Q6gQQ3AQQ3gQQ4AQYAToLCCEQFhAeEPEEEB06BwghEKABEApKBAhBGABKBAhGGAFQ8gFYsSVg2TRoAXABeACAAZ8DiAHLCZIBBzEuNi40LTGYAQCgAQHIAQjAAQHaAQYIARABGBQ&sclient=gws-wiz-serp",
         "imageURL": "https://ak-d.tripcdn.com/images/02260120008atwbir07F1_R_640_440_R5_D.jpg",
         "codename":"BAV",
         "color": "#ECC5C0"
@@ -1519,7 +1519,7 @@ export const arData = [
         "scale": "",
         "location": "Brussels, Belgium",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/H%C3%B4tel_Tassel",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/BE_Bruxelles_Horta_Tassel.JPG",
         "codename":"HoT",
         "color": "#FFCBA4"
@@ -1533,7 +1533,7 @@ export const arData = [
         "scale": "",
         "location": "Vienna, Austria",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Secession_Building",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Secession_2016%2C_Vienna.jpg",
         "codename":"SeB",
         "color": "#F8B88B"
@@ -1547,7 +1547,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/La_Fermette_Marbeuf",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/89/FMarbeuf.jpg",
         "codename":"LFM",
         "color": "#FFDDCA"
@@ -1561,8 +1561,8 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/DaVinciHigh.JPG",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Istituto_Statale_Italiano_Leonardo_Da_Vinci",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e3/12_Rue_S%C3%A9dillot%2C_Paris_%2801%29.jpg",
         "codename":"LVH",
         "color": "#FBBBB9"
     },
@@ -1575,7 +1575,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://fr.wikipedia.org/wiki/Bijouterie_Fouquet",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/MuchaFouquet1.jpg",
         "codename":"BiF",
         "color": "#FFC0CB"
@@ -1589,7 +1589,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Porte_Dauphine_(Paris_M%C3%A9tro)",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Paris_Metro_2_Porte_Dauphine_Libellule.JPG",
         "codename":"PDM",
         "color": "#FEA3AA"
@@ -1603,7 +1603,7 @@ export const arData = [
         "scale": "",
         "location": "Nancy, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://fr.wikipedia.org/wiki/Maisons_Huot",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Maison_Huot_de_style_art_nouveau_%28Nancy%29_%287966479700%29.jpg",
         "codename":"MaH",
         "color": "#E7A1B0"
@@ -1617,7 +1617,7 @@ export const arData = [
         "scale": "",
         "location": "Barcelona, Spain",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
         "codename":"CaB",
         "color": "#F778A1"
@@ -1631,7 +1631,7 @@ export const arData = [
         "scale": "",
         "location": "Bucharest, Romania",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://visitbucharest.today/the-house-of-mita-the-cyclist/",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mi%C8%9Ba_the_Cyclist_House_from_Bucharest_%28Romania%29.jpg",
         "codename":"MCH",
         "color": "#C25A7C"
@@ -1645,7 +1645,7 @@ export const arData = [
         "scale": "",
         "location": "Paris, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://www.wikidata.org/wiki/Q3149060",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Immeuble_Les_Chardons_Fa%C3%A7ade.jpg",
         "codename":"LCB",
         "color": "#C25283"
@@ -1659,7 +1659,7 @@ export const arData = [
         "scale": "",
         "location": "Barcelona, Spain",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Barcelona_Pavilion",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg",
         "codename":"BaP",
         "color": "#FF69B4"
@@ -1673,7 +1673,7 @@ export const arData = [
         "scale": "",
         "location": "Poissy, France",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Villa_Savoye",
         "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/3c/VillaSavoye.jpg",
         "codename":"ViS",
         "color": "#FC6C85"
@@ -1687,7 +1687,7 @@ export const arData = [
         "scale": "",
         "location": "New York City",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Lever_House",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lever_House_390_Park_Avenue.jpg",
         "codename":"LeH",
         "color": "#FF007F"
@@ -1701,7 +1701,7 @@ export const arData = [
         "scale": "",
         "location": "New York City",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Seagram_Building",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/99/Seagram_Building_%2835098307116%29.jpg",
         "codename":"SBu",
         "color": "#E759AC"
@@ -1715,7 +1715,7 @@ export const arData = [
         "scale": "",
         "location": "Colorado, USA",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/United_States_Air_Force_Academy,_Cadet_Area",
         "imageURL": "https://www.usafa.edu/app/uploads/chapel-1.jpg",
         "codename":"UCC",
         "color": "#DA70D6"
@@ -1729,7 +1729,7 @@ export const arData = [
         "scale": "",
         "location": "New Haven, Connecticut",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Rudolph_Hall",
         "imageURL": "https://i.pinimg.com/564x/60/dd/1a/60dd1ab94c6c62c7ed2375022411b761.jpg",
         "codename":"RuH",
         "color": "#FF77FF"
@@ -1743,7 +1743,7 @@ export const arData = [
         "scale": "",
         "location": "Montreal, Canada",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Habitat_67",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Montreal_-_QC_-_Habitat67.jpg",
         "codename":"H67",
         "color": "#C45AEC"
@@ -1757,7 +1757,7 @@ export const arData = [
         "scale": "",
         "location": "San Diego, California, USA",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Geisel_Library",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Geisel_Library%2C_UCSD.jpg",
         "codename":"GeL",
         "color": "#A74AC7"
@@ -1771,7 +1771,7 @@ export const arData = [
         "scale": "",
         "location": "Toronto, Canada",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Robarts_Library",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Robarts_Library-2.jpg",
         "codename":"RoL",
         "color": "#D291BC"
@@ -1785,7 +1785,7 @@ export const arData = [
         "scale": "",
         "location": "Seattle, Washington, USA",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://www.tclf.org/landscapes/freeway-park",
         "imageURL": "https://img.atlasobscura.com/T6rpExTHUI5av_xmo5pK0KckDNwTKvqDABc_nQa5ycI/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wYzhj/N2NiNzlmMWRlYTAw/ZTNfZnAyLmpwZw.jpg",
         "codename":"FPF",
         "color": "#915F6D"
@@ -1799,7 +1799,7 @@ export const arData = [
         "scale": "",
         "location": "New Orleans, USA",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Piazza_d%27Italia_(New_Orleans)",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/PiazzaDItalia1990.jpg",
         "codename":"PdI",
         "color": "#7E587E"
@@ -1813,7 +1813,7 @@ export const arData = [
         "scale": "",
         "location": "Stuttgart, Germany",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Neue_Staatsgalerie",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Staatsgalerie_Stuttgart_bei_Nacht.jpg",
         "codename":"NeS",
         "color": "#614051"
@@ -1825,9 +1825,9 @@ export const arData = [
         "style": "Post-modern",
         "buildingType": "Mixed-use",
         "scale": "",
-        "location": "New York City",
+        "location": "Dallas, Texas",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/AT%26T_Corporation",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/99/AT%26THQDallas.jpg",
         "codename":"ATT",
         "color": "#583759"
@@ -1841,7 +1841,7 @@ export const arData = [
         "scale": "",
         "location": "Los Angeles, USA",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Walt_Disney_Studios_(Burbank)#Team_Disney_%E2%80%93_The_Michael_D._Eisner_Building",
         "imageURL": "https://d23.com/app/uploads/2015/07/team-disney-building-1180x6001-1024x521.jpg",
         "codename":"TDB",
         "color": "#5E5A80"
@@ -1855,7 +1855,7 @@ export const arData = [
         "scale": "",
         "location": "Berlin, Germany",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/German_Chancellery",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bundeskanzleramt_at_Night.JPG",
         "codename":"Bun",
         "color": "#CCCCFF"
@@ -1869,7 +1869,7 @@ export const arData = [
         "scale": "",
         "location": "Ohio, US",
         "continent": "North America",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Wexner_Center_for_the_Arts",
         "imageURL": "https://wexarts.org/sites/default/files/2020-03/for_media_extsouth_1_hi_brad_feinknopf.jpg",
         "codename":"WCA",
         "color": "#6A5ACD"
@@ -1883,35 +1883,35 @@ export const arData = [
         "scale": "",
         "location": "Germany",
         "continent": "Europe",
-        "description": "",
-        "imageURL": "https://i.pinimg.com/564x/66/01/4e/66014e4c1e2ebfa3abf9b547a2278658.jpg",
+        "descriptionURL": "https://www.archdaily.com/785760/ad-classics-vitra-fire-station-zaha-hadid-weil-am-rhein-germany",
+        "imageURL": "https://images.adsttc.com/media/images/5717/4035/e58e/ce9e/0b00/00cb/slideshow/901_CR_SP_018.jpg?1461141519",
         "codename":"VFS",
         "color": "#736AFF"
     },
     {
         "id": 136,
-        "name": "Jewish Museum",
+        "name": "Jewish Museum Berlin",
         "yearBuilt": "1992-1999",
         "style": "Decon...",
         "buildingType": "Cultural",
         "scale": "",
         "location": "Berlin, Germany",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Jewish_Museum_Berlin",
         "imageURL": "https://static.dw.com/image/59122766_605.jpg",
         "codename":"JeM",
         "color": "#6F2DA8"
     },
     {
         "id": 137,
-        "name": "Guggenheim Museum",
+        "name": "Guggenheim Museum Bilbao",
         "yearBuilt": "1997",
         "style": "Decon...",
         "buildingType": "Cultural",
         "scale": "",
         "location": "Bilbao, Spain",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
         "imageURL": "https://www.guggenheim.org/wp-content/uploads/2016/05/architecture-srgm-exterior-heald-no-date-web-resized.jpg",
         "codename":"GuM",
         "color": "#6C2DC7"
@@ -1925,7 +1925,7 @@ export const arData = [
         "scale": "",
         "location": "Wolfsburg, Germany",
         "continent": "Europe",
-        "description": "",
+        "descriptionURL": "https://en.wikipedia.org/wiki/Phaeno_Science_Center",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Phaeno_Suedseite_RB.jpg",
         "codename":"PSC",
         "color": "#4B0150"

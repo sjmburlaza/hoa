@@ -33,9 +33,9 @@ export class ChronologicalComponent implements OnInit {
     }, Object.create(null));
 
     let arrGroup: [string, any][] = Object.entries(grouped);
-    const ar1 = arrGroup[18][1].slice(0, 15);
-    const ar2 = arrGroup[18][1].slice(15);
-    arrGroup[18] = ["1900s", ar1]
+    const ar1 = arrGroup[19][1].slice(0, 15);
+    const ar2 = arrGroup[19][1].slice(15);
+    arrGroup[19] = ["1900s", ar1];
     const insertAr = ["1950s", ar2];
 
     let sortedGroup = [...arrGroup, insertAr].sort((a, b) => a[0].localeCompare(b[0]));

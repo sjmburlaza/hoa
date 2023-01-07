@@ -25,6 +25,7 @@ export function renderSingleGroupsInUI(grouped: any, category: Category): void {
             li.innerHTML = key;
             li.style.width = "4.3vw";
             li.style.textAlign = "center";
+            // li.style.paddingLeft = "16px";
             li.style.fontSize = "0.8vw";
             li.style.fontFamily = "Barlow Condensed";
             if (category === Category.LOCATION || category === Category.PROGRAMMATIC) {
