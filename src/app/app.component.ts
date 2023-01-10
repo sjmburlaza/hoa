@@ -28,7 +28,7 @@ export class AppComponent {
   changeStyle(): void {
     const element = document.body;
     if (this.bgIcon === 'dark-mode') {
-      element.style.background = '#121212';
+      element.style.background = '#222222';
       element.style.color = '#FFF5EE';
     } else {
       element.style.background = 'transparent';
